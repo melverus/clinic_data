@@ -1,6 +1,6 @@
 # clinic_data
 
-## This project explores the publicly available data for healthcare clinics that provide abortion services, and crisis pregnancy centers to establish any significant relationship. 
+## This project compiles and analyzes data available for Planned Parenthood and Crisis Pregnancy Center locations.
 
 ## Data Sources
 - Reproaction's Fake Clinic Database
