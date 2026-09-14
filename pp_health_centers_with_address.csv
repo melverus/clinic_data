@@ -1,0 +1,504 @@
+name,city,state,zip,url,street_address
+Birmingham Center,Birmingham,AL,35203,https://www.plannedparenthood.org/health-center/alabama/birmingham/35203/birmingham-center-3253-90330,"1019 1st Avenue N, Birmingham, AL 35205, USA"
+Alabama Virtual Health Center,Birmingham,AL,35203,https://www.plannedparenthood.org/health-center/alabama/birmingham/35203/alabama-virtual-health-center-vc-21933-90330,
+Flagstaff Health Center,Flagstaff,AZ,86001,https://www.plannedparenthood.org/health-center/arizona/flagstaff/86001/flagstaff-health-center-2566-90030,"2500 S. Woodlands Village Blvd, Flagstaff, AZ 86001, USA"
+Glendale Health Center,Glendale,AZ,85304,https://www.plannedparenthood.org/health-center/arizona/glendale/85304/glendale-health-center-3963-90030,"5771 W. Eugie, Glendale, AZ 85304, USA"
+Mesa Health Center,Mesa,AZ,85204,https://www.plannedparenthood.org/health-center/arizona/mesa/85204/mesa-health-center-2810-90030,"1235 S. Gilbert Rd., Mesa, AZ 85204, USA"
+Central Phoenix Health Center,Phoenix,AZ,85014,https://www.plannedparenthood.org/health-center/arizona/phoenix/85014/central-phoenix-health-center-4200-90030,"4751 N 15th Street, Phoenix, AZ 85014, USA"
+Desert Sky Health Center,Phoenix,AZ,85035,https://www.plannedparenthood.org/health-center/arizona/phoenix/85035/desert-sky-health-center-2750-90030,"2020 N. 75th Avenue, Suite 11, AZ Phoenix, USA"
+Tempe Regional Health Center,Tempe,AZ,85283,https://www.plannedparenthood.org/health-center/arizona/tempe/85283/tempe-regional-health-center-4256-90030,"1837 E Baseline Rd AZ 85283, USA"
+Southern Arizona Regional Health Center,Tucson,AZ,85712,https://www.plannedparenthood.org/health-center/arizona/tucson/85712/southern-arizona-regional-health-center-3261-90030,
+Alhambra Health Center,Alhambra,CA,91801,https://www.plannedparenthood.org/health-center/california/alhambra/91801/alhambra-health-center-3561-90090,"330 S. Garfield Ave., Alhambra, CA 91801, USA"
+Anaheim Health Center,Anaheim,CA,92805,https://www.plannedparenthood.org/health-center/california/anaheim/92805/anaheim-health-center-2284-90160,"303 W. Lincoln Ave., Anaheim, CA 92805, USA"
+Antioch Health Center,Antioch,CA,94509,https://www.plannedparenthood.org/health-center/california/antioch/94509/antioch-health-center-2573-90200,3670 Delta Fair Boulevard  Antioch CA 94509
+Bakersfield Health Center,Bakersfield,CA,93301,https://www.plannedparenthood.org/health-center/california/bakersfield/93301/bakersfield-health-center-4028-90130,"2633 16th Street, Bakersfield, CA 93301, USA"
+Baldwin Park Center,Baldwin Park,CA,91706,https://www.plannedparenthood.org/health-center/california/baldwin-park/91706/baldwin-park-center-9990-90090,4070 Sterling Way Baldwin Park CA 91706
+Burbank Health Center,Burbank,CA,91506,https://www.plannedparenthood.org/health-center/california/burbank/91506/burbank-health-center-2236-90070,"916 W Burbank Blvd., Burbank, CA 91506, USA"
+Canoga Park Health Center,Canoga Park,CA,91303,https://www.plannedparenthood.org/health-center/california/canoga-park/91303/canoga-park-health-center-2235-90070,"21001 Sherman Way, Canoga Park, CA 91303, USA"
+Carson Health Center,Carson,CA,90746,https://www.plannedparenthood.org/health-center/california/carson/90746/carson-health-center-4291-90070,"661 East University Drive, CA Carson, USA"
+Chico Health Center,Chico,CA,95973,https://www.plannedparenthood.org/health-center/california/chico/95973/chico-health-center-2770-90200,"3100 Cohasset Rd., Chico, CA 95973, USA"
+Chula Vista Health Center,Chula Vista,CA,91911,https://www.plannedparenthood.org/health-center/california/chula-vista/91911/chula-vista-health-center-2328-90110,"1295 Broadway, Chula Vista, CA 91911, USA"
+Clearlake Health Center,Clearlake,CA,95422,https://www.plannedparenthood.org/health-center/california/clearlake/95422/clearlake-health-center-4068-90200,"14671 Olympic Drive, Clearlake, CA 95422, USA"
+Coachella Health Center,Coachella,CA,92236,https://www.plannedparenthood.org/health-center/california/coachella/92236/coachella-health-center-2186-90110,"49-111 California 111, Coachella, CA 92236, USA"
+Compton Health Center,Compton,CA,90221,https://www.plannedparenthood.org/health-center/california/compton/90221/compton-health-center-4290-90070,"4402 East Compton Blvd, Compton, CA 90221, USA"
+Virtual Health Center at PPNorCal,Concord,CA,94520,https://www.plannedparenthood.org/health-center/california/concord/94520/virtual-health-center-at-ppnorcal-vc-3930-90200,
+Concord Health Center,Concord,CA,94520,https://www.plannedparenthood.org/health-center/california/concord/94520/concord-health-center-3269-90200,"2185 Pacheco Street, Concord, CA 94520, USA"
+Corona Health Center,Corona,CA,92881,https://www.plannedparenthood.org/health-center/california/corona/92881/corona-health-center-9999-90110,"2079 Compton Avenue, Corona, CA 92881"
+Costa Mesa Health Center,Costa Mesa,CA,92626,https://www.plannedparenthood.org/health-center/california/costa-mesa/92626/costa-mesa-health-center-2286-90160,"15301 Nutmeg Place, Costa Mesa, CA 92626, USA"
+El Cajon Health Center,El Cajon,CA,92021,https://www.plannedparenthood.org/health-center/california/el-cajon/92021/el-cajon-health-center-2329-90110,"1685 E. Main Street, El Cajon, CA 92021, USA"
+Imperial Valley Homan Center,El Centro,CA,92243,https://www.plannedparenthood.org/health-center/california/el-centro/92243/imperial-valley-homan-center-4182-90110,
+El Cerrito Health Center,El Cerrito,CA,94530,https://www.plannedparenthood.org/health-center/california/el-cerrito/94530/el-cerrito-health-center-3940-90200,"280  El Cerrito Plaza, El Cerrito, CA 94530, USA"
+El Monte Health Center,El Monte,CA,91732,https://www.plannedparenthood.org/health-center/california/el-monte/91732/el-monte-health-center-2322-90070,"4786 N. Peck Road, El Monte, CA 91732, USA"
+Escondido Health Center,Escondido,CA,92025,https://www.plannedparenthood.org/health-center/california/escondido/92025/escondido-health-center-2331-90110,"347 W. Mission Avenue, Escondido, CA 92025, USA"
+Eureka Health Center,Eureka,CA,95503,https://www.plannedparenthood.org/health-center/california/eureka/95503/eureka-health-center-2301-90200,"3225 Timber Fall Court, Eureka, CA 95503, USA"
+Fairfield Health Center,Fairfield,CA,94533,https://www.plannedparenthood.org/health-center/california/fairfield/94533/fairfield-health-center-2700-90200,"1325 Travis Blvd., Fairfield, CA 94533, USA"
+Family First Health Center,Fresno,CA,93710,https://www.plannedparenthood.org/health-center/california/fresno/93710/family-first-health-center-2365-90130,"6095 N. 1st Street, Fresno, CA 93710, USA"
+Fulton Street Health Center,Fresno,CA,93728,https://www.plannedparenthood.org/health-center/california/fresno/93728/fulton-street-health-center-2364-90130,"650 N. Fulton Street, Fresno, CA 93728, USA"
+Glendora Health Center,Glendora,CA,91740,https://www.plannedparenthood.org/health-center/california/glendora/91740/glendora-health-center-4070-90090,"130 W Route 66, Glendora, CA 91740, USA"
+Hayward Health Center,Hayward,CA,94541,https://www.plannedparenthood.org/health-center/california/hayward/94541/hayward-health-center-4150-90130,"1032 A Street, Hayward, CA 94541, USA"
+Hemet Mimi Brien Center,Hemet,CA,92544,https://www.plannedparenthood.org/health-center/california/hemet/92544/hemet-mimi-brien-center-3784-90110,1780 E Florida Ave Hemet CA 92544
+Huntington Park Health Center,Huntington Park,CA,90255,https://www.plannedparenthood.org/health-center/california/huntington-park/90255/huntington-park-health-center-3831-90070,2550 E Slauson Ave Huntington Park CA 90255
+Inglewood Health Center,Inglewood,CA,90302,https://www.plannedparenthood.org/health-center/california/inglewood/90302/inglewood-health-center-3794-90070,
+Koreatown Health Center,Koreatown,CA,90006,https://www.plannedparenthood.org/health-center/california/koreatown/90006/koreatown-health-center-3795-90070,3224 W. Olympic Blvd Koreatown CA 90006
+Lakewood Health Center,Lakewood,CA,90713,https://www.plannedparenthood.org/health-center/california/lakewood/90713/lakewood-health-center-2359-90070,"5525 Del Amo Blvd., Lakewood, CA 90713, USA"
+South Bay Health Center,Lawndale,CA,90260,https://www.plannedparenthood.org/health-center/california/lawndale/90260/south-bay-health-center-2477-90070,"14623 Hawthorne Blvd., Lawndale, CA 90260, USA"
+Long Beach Health Center,Long Beach,CA,90806,https://www.plannedparenthood.org/health-center/california/long-beach/90806/long-beach-health-center-3945-90070,
+Long Beach Central,Long Beach,CA,90806,https://www.plannedparenthood.org/health-center/california/long-beach/90806/long-beach-central-10025-90070,
+Highland Park Health Center,Los Angeles,CA,90042,https://www.plannedparenthood.org/health-center/california/los-angeles/90042/highland-park-health-center-3695-90090,5903 N Figueroa Street Los Angeles CA 90042
+Hollywood Health Center,Los Angeles,CA,90029,https://www.plannedparenthood.org/health-center/california/los-angeles/90029/hollywood-health-center-2466-90070,"1014 1/2 N Vermont Ave, Los Angeles, CA 90029, USA"
+Telehealth at Planned Parenthood Los Angeles,Los Angeles,CA,90007,https://www.plannedparenthood.org/health-center/california/los-angeles/90007/telehealth-at-planned-parenthood-los-angeles-vc-21956-90070,
+Dorothy Hecht Health Center,Los Angeles,CA,90003,https://www.plannedparenthood.org/health-center/california/los-angeles/90003/dorothy-hecht-health-center-2465-90070,"8520 S Broadway, Los Angeles, CA 90003, USA"
+S. Mark Taper Foundation Center for Medical Training,Los Angeles,CA,90007,https://www.plannedparenthood.org/health-center/california/los-angeles/90007/s-mark-taper-foundation-center-for-medical-training-3862-90070,"400 West 30th Street, Los Angeles, CA 90007, USA"
+East Los Angeles Health Center,Los Angeles,CA,90022,https://www.plannedparenthood.org/health-center/california/los-angeles/90022/east-los-angeles-health-center-3375-90070,"5068 Whittier Blvd., Los Angeles, CA 90022, USA"
+Planned Parenthood Baldwin Hills-Crenshaw,Los Angeles,CA,90016,https://www.plannedparenthood.org/health-center/california/los-angeles/90016/planned-parenthood-baldwin-hills-crenshaw-3939-90070,"3637 S. La Brea Ave, Los Angeles, CA 90016, USA"
+Manteca Health Center,Manteca,CA,95336,https://www.plannedparenthood.org/health-center/california/manteca/95336/manteca-health-center-2530-90130,
+Merced Health Center,Merced,CA,95348,https://www.plannedparenthood.org/health-center/california/merced/95348/merced-health-center-2526-90130,"3166 Collins Dr., Merced, CA 95348, USA"
+Mission Viejo Health Center,Mission Viejo,CA,92691,https://www.plannedparenthood.org/health-center/california/mission-viejo/92691/mission-viejo-health-center-2288-90160,
+Modesto Health Center,Modesto,CA,95350,https://www.plannedparenthood.org/health-center/california/modesto/95350/modesto-health-center-2527-90130,"1431 McHenry Avenue, Modesto, CA 95350, USA"
+Moreno Valley Adrian Family Health Center,Moreno Valley,CA,92553,https://www.plannedparenthood.org/health-center/california/moreno-valley/92553/moreno-valley-adrian-family-health-center-2188-90110,"23100 Eucalyptus Avenue, Moreno Valley, CA 92553, USA"
+Mountain View Health Center,Mountain View,CA,94040,https://www.plannedparenthood.org/health-center/california/mountain-view/94040/mountain-view-health-center-2310-90130,"2500 California St, Mountain View, CA 94040"
+Murrieta Health Center,Murrieta,CA,92562,https://www.plannedparenthood.org/health-center/california/murrieta/92562/murrieta-health-center-10002-90110,
+Napa Health Center,Napa,CA,94558,https://www.plannedparenthood.org/health-center/california/napa/94558/napa-health-center-2702-90200,
+North Highlands Health Center,North Highlands,CA,95660,https://www.plannedparenthood.org/health-center/california/north-highlands/95660/north-highlands-health-center-2201-90130,"5700 Watt Ave., North Highlands, CA 95660, USA"
+Oakland Health Center,Oakland,CA,94612,https://www.plannedparenthood.org/health-center/california/oakland/94612/oakland-health-center-21934-90130,1400 Broadway Oakland CA 94612
+Orange Health Center,Orange,CA,92866,https://www.plannedparenthood.org/health-center/california/orange/92866/orange-health-center-3264-90160,"700 S. Tustin St., Orange, CA 92866, USA"
+Oxnard Health Center,Oxnard,CA,93033,https://www.plannedparenthood.org/health-center/california/oxnard/93033/oxnard-health-center-2842-90170,2651 South C St Ste 100 Oxnard CA 93033
+Antelope Valley Health Center,Palmdale,CA,93550,https://www.plannedparenthood.org/health-center/california/palmdale/93550/antelope-valley-health-center-4054-90070,"533 E. Palmdale Boulevard, Palmdale, CA 93550, USA"
+California Virtual Health Center of PSGV,Pasadena,CA,91104,https://www.plannedparenthood.org/health-center/california/pasadena/91104/california-virtual-health-center-of-psgv-vc-10000-90090,
+Pasadena Health Center,Pasadena,CA,91104,https://www.plannedparenthood.org/health-center/california/pasadena/91104/pasadena-health-center-3265-90090,"1045 N. Lake Ave., Pasadena, CA 91104, USA"
+Pomona Health Center,Pomona,CA,91767,https://www.plannedparenthood.org/health-center/california/pomona/91767/pomona-health-center-2208-90070,"1550 N Garey Avenue, Pomona, CA 91767, USA"
+Rancho Mirage Health Center,Rancho Mirage,CA,92270,https://www.plannedparenthood.org/health-center/california/rancho-mirage/92270/rancho-mirage-health-center-2325-90110,
+Redding Health Center,Redding,CA,96002,https://www.plannedparenthood.org/health-center/california/redding/96002/redding-health-center-2376-90200,"2935 Bechelli Lane, Redding, CA 96002, USA"
+Redwood City Health Center,Redwood City,CA,94061,https://www.plannedparenthood.org/health-center/california/redwood-city/94061/redwood-city-health-center-4129-90130,"2907 El Camino Real, Redwood City, CA 94061, USA"
+Hilltop-Richmond Health Center,Richmond,CA,94806,https://www.plannedparenthood.org/health-center/california/richmond/94806/hilltop-richmond-health-center-2791-90200,"2970 Hilltop Mall Road, Richmond, CA 94806, USA"
+Riverside Flaster Family Center,Riverside,CA,92506,https://www.plannedparenthood.org/health-center/california/riverside/92506/riverside-flaster-family-center-2187-90110,"3772 Tibbetts Street, Riverside, CA 92506, USA"
+Roseville Health Center,Roseville,CA,95661,https://www.plannedparenthood.org/health-center/california/roseville/95661/roseville-health-center-2197-90130,"729 Sunrise Ave., Roseville, CA 95661, USA"
+Fruitridge Health Center,Sacramento,CA,95820,https://www.plannedparenthood.org/health-center/california/sacramento/95820/fruitridge-health-center-2198-90130,"5385 Franklin Blvd., Sacramento, CA 95820, USA"
+B Street Health Center,Sacramento,CA,95816,https://www.plannedparenthood.org/health-center/california/sacramento/95816/centro-de-salud-b-street-2200-90130,"201 29th Street, Sacramento, CA 95816, USA"
+Capitol Plaza Health Center,Sacramento,CA,95814,https://www.plannedparenthood.org/health-center/california/sacramento/95814/capitol-plaza-health-center-2199-90130,"1125 10th Street, Sacramento, CA 95814, USA"
+Salinas Health Center,Salinas,CA,93901,https://www.plannedparenthood.org/health-center/california/salinas/93901/salinas-health-center-2228-90130,"316 N. Main Street, Salinas, CA 93901, USA"
+San Bernardino Health Center,San Bernardino,CA,92408,https://www.plannedparenthood.org/health-center/california/san-bernardino/92408/san-bernardino-health-center-2282-90160,"1873 S. Commercenter Dr. W., San Bernardino, CA 92408, USA"
+Euclid Avenue Francis Torbert Center,San Diego,CA,92114,https://www.plannedparenthood.org/health-center/california/san-diego/92114/euclid-avenue-francis-torbert-center-2334-90110,"220 Euclid Ave, San Diego, CA 92114, USA"
+Telehealth of Planned Parenthood of the Pacific Southwest,San Diego,CA,92108,https://www.plannedparenthood.org/health-center/california/san-diego/92108/telehealth-of-planned-parenthood-of-the-pacific-southwest-vc-6727-90110,
+College Avenue Sarah Weddington Center,San Diego,CA,92115,https://www.plannedparenthood.org/health-center/california/san-diego/92115/college-avenue-sarah-weddington-center-2324-90110,"4575 College Ave, San Diego, CA 92115, USA"
+First Avenue Michelle Wagner Center,San Diego,CA,92101,https://www.plannedparenthood.org/health-center/california/san-diego/92101/first-avenue-michelle-wagner-center-4036-90110,"2017 First Avenue, San Diego, CA 92101, USA"
+Kearny Mesa Joan & Irwin Jacobs Center,San Diego,CA,92111,https://www.plannedparenthood.org/health-center/california/san-diego/92111/kearny-mesa-joan-irwin-jacobs-center-2332-90110,7035 Convoy Ct San Diego CA 92111
+Mira Mesa Corton/ Eibl Family Center,San Diego,CA,92126,https://www.plannedparenthood.org/health-center/california/san-diego/92126/mira-mesa-corton-eibl-family-center-2333-90110,"10717 Camino Ruiz, San Diego, CA 92126, USA"
+San Francisco Health Center,San Francisco,CA,94109,https://www.plannedparenthood.org/health-center/california/san-francisco/94109/san-francisco-health-center-3997-90200,1522 Bush Street San Francisco 94109
+Blossom Hill Health Center,San Jose,CA,95123,https://www.plannedparenthood.org/health-center/california/san-jose/95123/blossom-hill-health-center-3230-90130,"5440 Thornwood Drive, San Jose, CA 95123, USA"
+Mar Monte Community Clinic,San Jose,CA,95122,https://www.plannedparenthood.org/health-center/california/san-jose/95122/mar-monte-community-clinic-2437-90130,"1694 Tully Road, CA San Jose, USA"
+Eastside Health Center,San Jose,CA,95127,https://www.plannedparenthood.org/health-center/california/san-jose/95127/eastside-health-center-2435-90130,
+San Jose Central Health Center,San Jose,CA,95126,https://www.plannedparenthood.org/health-center/california/san-jose/95126/san-jose-central-health-center-3263-90130,"1691 The Alameda, San Jose, CA 95126, USA"
+San Luis Obispo Health Center,San Luis Obispo,CA,93401,https://www.plannedparenthood.org/health-center/california/san-luis-obispo/93401/san-luis-obispo-health-center-2252-90170,"743 Pismo Street, San Luis Obispo, CA 93401, USA"
+San Rafael Health Center,San Rafael,CA,94901,https://www.plannedparenthood.org/health-center/california/san-rafael/94901/san-rafael-health-center-4114-90200,"2 H Street, San Rafael, CA 94901, USA"
+San Ramon Health Center,San Ramon,CA,94583,https://www.plannedparenthood.org/health-center/california/san-ramon/94583/san-ramon-health-center-2572-90200,"200 Porter Drive, San Ramon, CA 94583, USA"
+Santa Ana Health Center,Santa Ana,CA,92705,https://www.plannedparenthood.org/health-center/california/santa-ana/92705/santa-ana-health-center-2287-90160,"1421 E. 17th St., Santa Ana, CA 92705, USA"
+Santa Barbara Health Center,Santa Barbara,CA,93101,https://www.plannedparenthood.org/health-center/california/santa-barbara/93101/santa-barbara-health-center-3268-90170,"518 Garden Street, Santa Barbara, CA 93101, USA"
+Virtual Health Center of California Central Coast,Santa Barbara,CA,93101,https://www.plannedparenthood.org/health-center/california/santa-barbara/93101/virtual-health-center-of-california-central-coast-vc-21981-90170,
+Santa Maria Health Center,Santa Maria,CA,93454,https://www.plannedparenthood.org/health-center/california/santa-maria/93454/santa-maria-health-center-2250-90170,"501 E Chapel Street, Santa Maria, CA 93454, USA"
+Santa Monica Health Center,Santa Monica,CA,90401,https://www.plannedparenthood.org/health-center/california/santa-monica/90401/santa-monica-health-center-2476-90070,"1316 3rd Street Promenade, Santa Monica, CA 90401, USA"
+Santa Rosa Health Center,Santa Rosa,CA,95405,https://www.plannedparenthood.org/health-center/california/santa-rosa/95405/santa-rosa-health-center-3990-90200,"1140 Sonoma Avenue, Santa Rosa, CA 95405, USA"
+Seaside Health Center,Seaside,CA,93955,https://www.plannedparenthood.org/health-center/california/seaside/93955/centro-de-salud-seaside-2233-90130,"625 Hilby Ave., Seaside, CA 93955, USA"
+Eastland Plaza Health Center,Stockton,CA,95205,https://www.plannedparenthood.org/health-center/california/stockton/95205/eastland-plaza-health-center-2529-90130,"678 N Wilson Way, Stockton, CA 95205, USA"
+North Stockton Health Center,Stockton,CA,95207,https://www.plannedparenthood.org/health-center/california/stockton/95207/north-stockton-health-center-2528-90130,"4555 Precissi Lane, Stockton, CA 95207, USA"
+Thousand Oaks Health Center,Thousand Oaks,CA,91320,https://www.plannedparenthood.org/health-center/california/thousand-oaks/91320/thousand-oaks-health-center-3851-90170,"1200 W Hillcrest, Thousand Oaks, CA 91320, USA"
+Tracy Health Center,Tracy,CA,95376,https://www.plannedparenthood.org/health-center/california/tracy/95376/tracy-health-center-3856-90130,"1441 N. Tracy Blvd., Tracy, CA 95376, USA"
+Ukiah Health Center,Ukiah,CA,95482,https://www.plannedparenthood.org/health-center/california/ukiah/95482/ukiah-health-center-4034-90200,"242-A Hospital Drive, Ukiah, CA 95482, USA"
+Upland Health Center,Upland,CA,91786,https://www.plannedparenthood.org/health-center/california/upland/91786/upland-health-center-2283-90160,"918 W. Foothill Blvd., Upland, CA 91786, USA"
+Vallejo Health Center,Vallejo,CA,94590,https://www.plannedparenthood.org/health-center/california/vallejo/94590/vallejo-health-center-2699-90200,"303 Sacramento St, Vallejo, CA 94590, USA"
+Van Nuys Health Center,Van Nuys,CA,91405,https://www.plannedparenthood.org/health-center/california/van-nuys/91405/van-nuys-health-center-2234-90070,"7100 Van Nuys Blvd., Van Nuys, CA 91405, USA"
+Ventura Health Center,Ventura,CA,93003,https://www.plannedparenthood.org/health-center/california/ventura/93003/ventura-health-center-2251-90170,"5400 Ralston Street, Ventura, CA 93003, USA"
+Victorville Health Center,Victorville,CA,92392,https://www.plannedparenthood.org/health-center/california/victorville/92392/victorville-health-center-4082-90160,"15403 Park Ave. E., Victorville, CA 92392, USA"
+Visalia Health Center,Visalia,CA,93291,https://www.plannedparenthood.org/health-center/california/visalia/93291/visalia-health-center-4021-90130,"211 N. Stevenson Street, Visalia, CA 93291, USA"
+Vista Isabella Center,Vista,CA,92081,https://www.plannedparenthood.org/health-center/california/vista/92081/vista-isabella-center-4186-90110,"1964 Via Centre, Vista, CA 92081, USA"
+Walnut Creek Health Center,Walnut Creek,CA,94596,https://www.plannedparenthood.org/health-center/california/walnut-creek/94596/walnut-creek-health-center-2571-90200,"1357 Oakland Blvd., Walnut Creek, CA 94596, USA"
+Watsonville Health Center,Watsonville,CA,95076,https://www.plannedparenthood.org/health-center/california/watsonville/95076/watsonville-health-center-2229-90130,"398 South Green Valley Road, Watsonville, CA 95076, USA"
+West Hollywood Health Center,West Hollywood,CA,90069,https://www.plannedparenthood.org/health-center/california/west-hollywood/90069/west-hollywood-health-center-4187-90070,869 Westbourne Dr West Hollywood CA 90069
+Westminster Health Center,Westminster,CA,92683,https://www.plannedparenthood.org/health-center/california/westminster/92683/westminster-health-center-2285-90160,"14372 Beach Blvd., Westminster, CA 92683, USA"
+Judith and Steaven Jones Health Center,Whittier,CA,90602,https://www.plannedparenthood.org/health-center/california/whittier/90602/judith-and-steaven-jones-health-center-2358-90070,"7655 Greenleaf Ave, Whittier, CA 90602, USA"
+Woodland Health Center,Woodland,CA,95695,https://www.plannedparenthood.org/health-center/california/woodland/95695/woodland-health-center-2375-90130,"520 Cottonwood Street, Woodland, CA 95695, USA"
+Yuba City Health Center,Yuba City,CA,95912,https://www.plannedparenthood.org/health-center/california/yuba-city/95912/yuba-city-health-center-2374-90130,"347 Alturas Street, Yuba City, CA 95912, USA"
+Arvada Health Center,Arvada,CO,80003,https://www.plannedparenthood.org/health-center/colorado/arvada/80003/arvada-health-center-2487-90210,"7735 Wadsworth Boulevard, Arvada, CO 80003, USA"
+Boulder Health Center,Boulder,CO,80302,https://www.plannedparenthood.org/health-center/colorado/boulder/80302/boulder-health-center-2488-90210,
+Colorado Springs Westside Health Center,Colorado Springs,CO,80907,https://www.plannedparenthood.org/health-center/colorado/colorado-springs/80907/colorado-springs-westside-health-center-3967-90210,"3480 Centennial Blvd., Colorado Springs, CO 80907, USA"
+Cortez Health Center,Cortez,CO,81321,https://www.plannedparenthood.org/health-center/colorado/cortez/81321/cortez-health-center-2169-90210,"20 West North Street, Cortez, CO 81321, USA"
+Denver Central Health Center,Denver,CO,80218,https://www.plannedparenthood.org/health-center/colorado/denver/80218/denver-central-health-center-2484-90210,"921 E 14th Ave, Denver, CO 80218, USA"
+Park Hill Health Center,Denver,CO,80207,https://www.plannedparenthood.org/health-center/colorado/denver/80207/park-hill-health-center-3543-90210,"7155 E 38th Ave, Denver, CO 80207, USA"
+Colorado Telehealth,Denver,CO,80207,https://www.plannedparenthood.org/health-center/colorado/denver/80207/colorado-telehealth-vc-3894-90210,
+Durango Health Center,Durango,CO,81303,https://www.plannedparenthood.org/health-center/colorado/durango/81303/durango-health-center-2174-90210,"46 Suttle St, Durango, CO 81303, USA"
+Fort Collins Health Center,Fort Collins,CO,80521,https://www.plannedparenthood.org/health-center/colorado/fort-collins/80521/fort-collins-health-center-4087-90210,"825 South Shields St, Fort Collins, CO 80521, USA"
+Glenwood Springs Health Center,Glenwood Springs,CO,81601,https://www.plannedparenthood.org/health-center/colorado/glenwood-springs/81601/glenwood-springs-health-center-2172-90210,"50923 Highway 6, Glenwood Springs, CO 81601, USA"
+Greeley Health Center,Greeley,CO,80634,https://www.plannedparenthood.org/health-center/colorado/greeley/80634/greeley-health-center-2173-90210,"3487B W 10th Street, Greeley, CO 80634, USA"
+South Metro,Greenwood Village,CO,80111,https://www.plannedparenthood.org/health-center/colorado/greenwood-village/80111/south-metro-21937-90210,8765 E Orchard Rd Ste 702 Greenwood Village Colorado 80111-5009
+Salida Health Center,Salida,CO,81201,https://www.plannedparenthood.org/health-center/colorado/salida/81201/salida-health-center-2277-90210,"248 E 1st St, CO Salida, USA"
+Bridgeport Center,Bridgeport,CT,06606,https://www.plannedparenthood.org/health-center/connecticut/bridgeport/06606/bridgeport-center-4275-90220,"4697 Main Street, Bridgeport, CT 06606, USA"
+Danbury Center,Danbury,CT,06810,https://www.plannedparenthood.org/health-center/connecticut/danbury/06810/danbury-center-2539-90220,"44 Main Street, Danbury, CT 06810, USA"
+Enfield Center,Enfield,CT,06082,https://www.plannedparenthood.org/health-center/connecticut/enfield/06082/enfield-center-2219-90220,"111 Hazard Ave., Enfield, CT 06082, USA"
+Hartford North Center,Hartford,CT,06112,https://www.plannedparenthood.org/health-center/connecticut/hartford/06112/hartford-north-center-2220-90220,"1229 Albany Avenue, Hartford, CT 06112, USA"
+Manchester Center,Manchester,CT,06040,https://www.plannedparenthood.org/health-center/connecticut/manchester/06040/manchester-center-2221-90220,
+Meriden Center,Meriden,CT,06451,https://www.plannedparenthood.org/health-center/connecticut/meriden/06451/centro-meriden-2543-90220,"26 Womens Way, Meriden, CT 06451, USA"
+Connecticut Virtual Health Center,New Haven,CT,06511,https://www.plannedparenthood.org/health-center/connecticut/new-haven/06511/connecticut-virtual-health-center-vc-100700105-90220,
+New Haven Center,New Haven,CT,06511,https://www.plannedparenthood.org/health-center/connecticut/new-haven/06511/new-haven-center-3271-90220,"345 Whitney Ave, New Haven, CT 06511, USA"
+New London Center,New London,CT,06320,https://www.plannedparenthood.org/health-center/connecticut/new-london/06320/new-london-center-2223-90220,"467 Ocean Ave, New London, CT 06320, USA"
+Norwich Center,Norwich,CT,06360,https://www.plannedparenthood.org/health-center/connecticut/norwich/06360/norwich-center-2217-90220,"12 Case Street, Norwich, CT 06360, USA"
+Stamford Center,Stamford,CT,06902,https://www.plannedparenthood.org/health-center/connecticut/stamford/06902/stamford-center-2536-90220,"35 Sixth Street, Stamford, CT 06902, USA"
+Torrington Center,Torrington,CT,06790,https://www.plannedparenthood.org/health-center/connecticut/torrington/06790/torrington-center-2222-90220,"249 Winsted Road, Torrington, CT 06790, USA"
+Waterbury Center,Waterbury,CT,06708,https://www.plannedparenthood.org/health-center/connecticut/waterbury/06708/waterbury-center-2540-90220,"617 Watertown Avenue, Waterbury, CT 06708, USA"
+West Hartford Center,West Hartford,CT,06110,https://www.plannedparenthood.org/health-center/connecticut/west-hartford/06110/west-hartford-center-2216-90220,"1030 New Britain Ave, West Hartford, CT 06110, USA"
+Willimantic Center,Willimantic,CT,06226,https://www.plannedparenthood.org/health-center/connecticut/willimantic/06226/willimantic-center-2224-90220,"1548 W Main Street, Willimantic, CT 06226, USA"
+Dover Center,Dover,DE,19901,https://www.plannedparenthood.org/health-center/delaware/dover/19901/dover-center-2896-90240,"805 S Governors Ave, Dover, DE 19901, USA"
+Newark Center,Newark,DE,19711,https://www.plannedparenthood.org/health-center/delaware/newark/19711/newark-center-2895-90240,"140 E Delaware Ave, Newark, DE 19711, USA"
+Seaford Center,Seaford,DE,19973,https://www.plannedparenthood.org/health-center/delaware/seaford/19973/seaford-center-3944-90240,800 Health Services Drive Seaford DE 19973
+Wilmington Center,Wilmington,DE,19801,https://www.plannedparenthood.org/health-center/delaware/wilmington/19801/wilmington-center-3272-90240,"625 N Shipley Street, Wilmington, DE 19801, USA"
+Fort Myers Health Center,Fort Myers,FL,33966,https://www.plannedparenthood.org/health-center/florida/fort-myers/33966/fort-myers-health-center-2505-90320,"6418 Commerce Park Drive, Ft. Myers, FL 33966, USA"
+Jacksonville Health Center,Jacksonville,FL,32217,https://www.plannedparenthood.org/health-center/florida/jacksonville/32217/jacksonville-health-center-3278-90320,"5978 Powers Avenue, Jacksonville, FL 32217, USA"
+Kissimmee Health Center,Kissimmee,FL,34741,https://www.plannedparenthood.org/health-center/florida/kissimmee/34741/kissimmee-health-center-4144-90320,"610 Oak Commons Blvd., Kissimmee, FL 34741, USA"
+Golden Glades-Miami Health Center,Miami,FL,33169,https://www.plannedparenthood.org/health-center/florida/miami/33169/golden-glades-miami-health-center-4183-90320,"585 N.W. 161 St., Miami, FL 33169, USA"
+Kendall Health Center,Miami,FL,33186,https://www.plannedparenthood.org/health-center/florida/miami/33186/kendall-health-center-2258-90320,"8900 SW 117th Avenue, Miami, FL 33186, USA"
+Naples Health Center,Naples,FL,34103,https://www.plannedparenthood.org/health-center/florida/naples/34103/naples-health-center-3294-90320,"1425 Creech Road, Naples, FL 34103, USA"
+Orlando Health Center,Orlando,FL,32817,https://www.plannedparenthood.org/health-center/florida/orlando/32817/orlando-health-center-2857-90320,"11500 University Blvd, Orlando, FL 32817, USA"
+Pembroke Pines Health Center,Pembroke Pines,FL,33024,https://www.plannedparenthood.org/health-center/florida/pembroke-pines/33024/pembroke-pines-health-center-3917-90320,"263 North University Drive, Pembroke Pines, FL 33024, USA"
+Treasure Coast Health Center,Port Saint Lucie,FL,34952,https://www.plannedparenthood.org/health-center/florida/port-saint-lucie/34952/treasure-coast-health-center-2627-90320,"1696 SE Hillmoor Dr Port Saint Lucie, 34952"
+St. Petersburg Health Center,Saint Petersburg,FL,33701,https://www.plannedparenthood.org/health-center/florida/saint-petersburg/33701/st-petersburg-health-center-2273-90320,"33 6th Street South, St. Petersburg, FL 33701, USA"
+Sarasota Health Center,Sarasota,FL,34236,https://www.plannedparenthood.org/health-center/florida/sarasota/34236/sarasota-health-center-2189-90320,"736 Central Avenue, Sarasota, FL 34236, USA"
+Tallahassee Health Center,Tallahassee,FL,32304,https://www.plannedparenthood.org/health-center/florida/tallahassee/32304/tallahassee-health-center-2154-90320,"2618 W Tennessee Street, Tallahassee, FL 32304, USA"
+Tampa Health Center,Tampa,FL,33617,https://www.plannedparenthood.org/health-center/florida/tampa/33617/tampa-health-center-2247-90320,"8068 North 56th Street, Tampa, FL 33617, USA"
+North Tampa Health Center,Tampa,FL,33613,https://www.plannedparenthood.org/health-center/florida/tampa/33613/north-tampa-health-center-4274-90320,"236 E Bearss Avenue, Tampa, FL 33613 USA"
+Virtual Health Center of Florida,West Palm Beach,FL,33409,https://www.plannedparenthood.org/health-center/florida/west-palm-beach/33409/virtual-health-center-of-florida-vc-3941-90320,
+Florida Mango Health Center,West Palm Beach,FL,33409,https://www.plannedparenthood.org/health-center/florida/west-palm-beach/33409/florida-mango-health-center-3813-90320,2300 N Florida Mango Road West Palm Beach FL 33409
+East Atlanta Health Center,Atlanta,GA,30316,https://www.plannedparenthood.org/health-center/georgia/atlanta/30316/east-atlanta-health-center-4286-90330,"440 Moreland Avenue SE, Atlanta, GA 30316, USA"
+Gwinnett Center,Lawrenceville,GA,30046,https://www.plannedparenthood.org/health-center/georgia/lawrenceville/30046/centro-gwinnett-2271-90330,355 Philip Blvd Lawrenceville GA 30046
+Cobb Center,Marietta,GA,30062,https://www.plannedparenthood.org/health-center/georgia/marietta/30062/cobb-center-2270-90330,"220 Cobb Parkway North, Marietta, GA 30062, USA"
+Georgia Virtual Health Center,Marietta,GA,30062,https://www.plannedparenthood.org/health-center/georgia/marietta/30062/georgia-virtual-health-center-vc-21927-90330,
+Savannah Center,Savannah,GA,31405,https://www.plannedparenthood.org/health-center/georgia/savannah/31405/savannah-center-2207-90330,"720 East 71st St, Savannah, GA 31405, USA"
+Honolulu Health Center,Honolulu,HI,96813,https://www.plannedparenthood.org/health-center/hawaii/honolulu/96813/honolulu-health-center-2951-91810,"839 S. Beretania  Street, Honolulu, HI 96813, USA"
+Hawai'i Virtual Health Center,Kahului,HI,96732,https://www.plannedparenthood.org/health-center/hawaii/kahului/96732/hawaii-virtual-health-center-vc-21942-91810,
+Kahului Health Center,Kahului,HI,96732,https://www.plannedparenthood.org/health-center/hawaii/kahului/96732/centro-de-salud-kahului-2950-91810,"140 Hoohana Street, Kahului, HI 96732, USA"
+Meridian Health Center,Meridian,ID,83642,https://www.plannedparenthood.org/health-center/idaho/meridian/83642/meridian-health-center-4105-91810,
+Idaho Virtual Health Center of PPGNHAIK,Meridian,ID,83642,https://www.plannedparenthood.org/health-center/idaho/meridian/83642/idaho-virtual-health-center-of-ppgnhaik-vc-21941-91810,
+Aurora Health Center,Aurora,IL,60504,https://www.plannedparenthood.org/health-center/illinois/aurora/60504/aurora-health-center-3483-90430,"3051 E. New York St., Aurora, IL 60504, USA"
+Carbondale Health Center,Carbondale,IL,62901,https://www.plannedparenthood.org/health-center/illinois/carbondale/62901/carbondale-health-center-10037-90430,200 N. Emerald Lane Carbondale IL 62901
+Champaign Health Center,Champaign,IL,61820,https://www.plannedparenthood.org/health-center/illinois/champaign/61820/champaign-health-center-3283-90430,"302 E Stoughton St., Champaign, IL 61820, USA"
+Loop Health Center,Chicago,IL,60602,https://www.plannedparenthood.org/health-center/illinois/chicago/60602/loop-health-center-3286-90430,"16 N. Wabash Avenue, Chicago, IL 60602, USA"
+Roseland Health Center,Chicago,IL,60628,https://www.plannedparenthood.org/health-center/illinois/chicago/60628/roseland-health-center-2263-90430,"11250 S Halsted St., Chicago, IL 60628, USA"
+Austin Health Center,Chicago,IL,60651,https://www.plannedparenthood.org/health-center/illinois/chicago/60651/austin-health-center-2265-90430,"5937 W Chicago Ave., Chicago, IL 60651, USA"
+Rogers Park Health Center,Chicago,IL,60660,https://www.plannedparenthood.org/health-center/illinois/chicago/60660/rogers-park-health-center-2266-90430,"5725 North Broadway, Chicago, IL 60660 USA"
+Near North: Elizabeth Cohn Morris Health Center,Chicago,IL,60610,https://www.plannedparenthood.org/health-center/illinois/chicago/60610/near-north-elizabeth-cohn-morris-health-center-2474-90430,"1200 N La Salle Dr, Chicago, IL 60610, USA"
+Virtual Center of PPIL,Chicago,IL,60602,https://www.plannedparenthood.org/health-center/illinois/chicago/60602/virtual-center-of-ppil-vc-3879-90430,
+PPGR's Virtual Health Center for Illinois,Fairview Heights,IL,62208,https://www.plannedparenthood.org/health-center/illinois/fairview-heights/62208/ppgrs-virtual-health-center-for-illinois-vc-3880-90770,
+Fairview Heights Health Center,Fairview Heights,IL,62208,https://www.plannedparenthood.org/health-center/illinois/fairview-heights/62208/fairview-heights-health-center-2712-90770,"317 Salem Place, Fairview Heights, IL 62208, USA"
+Flossmoor Health Center,Flossmoor,IL,60422,https://www.plannedparenthood.org/health-center/illinois/flossmoor/60422/flossmoor-health-center-4360-90430,"19831 Governors Highway, Flossmoor, IL 60422"
+Orland Park Health Center,Orland Park,IL,60462,https://www.plannedparenthood.org/health-center/illinois/orland-park/60462/orland-park-health-center-3102-90430,"14470 S. LaGrange Rd., Orland Park, IL 60462, USA"
+Peoria Health Center,Peoria,IL,61604,https://www.plannedparenthood.org/health-center/illinois/peoria/61604/peoria-health-center-3281-90430,"2709 N Knoxville Ave, Peoria, IL 61604, USA"
+Springfield Health Center,Springfield,IL,62702,https://www.plannedparenthood.org/health-center/illinois/springfield/62702/springfield-health-center-3284-90430,"601 N. Bruns, Springfield, IL 62702, USA"
+Waukegan Health Center,Waukegan,IL,60085,https://www.plannedparenthood.org/health-center/illinois/waukegan/60085/centro-de-salud-waukegan-2675-90430,
+Bloomington Health Center,Bloomington,IN,47403,https://www.plannedparenthood.org/health-center/indiana/bloomington/47403/bloomington-health-center-2639-91810,"421 S College Ave, Bloomington, IN 47403, USA"
+Fort Wayne Health Center,Ft Wayne,IN,46805,https://www.plannedparenthood.org/health-center/indiana/ft-wayne/46805/fort-wayne-health-center-2907-91810,2930 lake ave fort wayne in 46805
+Hammond Health Center,Hammond,IN,46324,https://www.plannedparenthood.org/health-center/indiana/hammond/46324/hammond-health-center-2922-91810,"7131 Indianapolis Blvd., Hammond, IN 46324, USA"
+Georgetown Health Center,Indianapolis,IN,46268,https://www.plannedparenthood.org/health-center/indiana/indianapolis/46268/georgetown-health-center-2870-91810,"8590 Georgetown Road, Indianapolis, IN 46268, USA"
+Lafayette Health Center,Lafayette,IN,47905,https://www.plannedparenthood.org/health-center/indiana/lafayette/47905/lafayette-health-center-2669-91810,"964 Mezzanine Dr., Lafayette, IN 47905, USA"
+Merrillville Health Center,Merrillville,IN,46410,https://www.plannedparenthood.org/health-center/indiana/merrillville/46410/merrillville-health-center-2923-91810,"8645 Connecticut Street, Merrillville, IN 46410, USA"
+Indiana Virtual Health Center,Mishawaka,IN,46545,https://www.plannedparenthood.org/health-center/indiana/mishawaka/46545/indiana-virtual-health-center-vc-21950-91810,
+Mishawaka Health Center,Mishawaka,IN,46545,https://www.plannedparenthood.org/health-center/indiana/mishawaka/46545/mishawaka-health-center-2758-91810,"3005 Grape Rd., Mishawaka, IN 46545, USA"
+New Albany Health Center,New Albany,IN,47150,https://www.plannedparenthood.org/health-center/indiana/new-albany/47150/new-albany-health-center-2634-91810,412 New Albany Plaza New Albany IN 47150
+Des Moines – Susan Knapp Health Center,Des Moines,IA,50311,https://www.plannedparenthood.org/health-center/iowa/des-moines/50311/des-moines-susan-knapp-health-center-3385-90720,"2304 University Avenue, Des Moines, IA 50311, USA"
+Iowa Telehealth,Des Moines,IA,50311,https://www.plannedparenthood.org/health-center/iowa/des-moines/50311/iowa-telehealth-vc-10022-90720,
+Wyandotte Health Center,Kansas City,KS,66104,https://www.plannedparenthood.org/health-center/kansas/kansas-city/66104/centro-de-salud-wyandotte-3744-90740,6013 Leavenworth Road Kansas City KS 66104
+Comprehensive Health Center,Overland Park,KS,66211,https://www.plannedparenthood.org/health-center/kansas/overland-park/66211/comprehensive-health-center-2594-90740,"4401 W 109th Street, Overland Park, KS 66211, USA"
+Pittsburg Health Center,Pittsburg,KS,66762,https://www.plannedparenthood.org/health-center/kansas/pittsburg/66762/pittsburg-health-center-90740-90740,"2312 South Tucker Terrace, Pittsburg, KS 66762"
+Wichita Health Center,Wichita,KS,67214,https://www.plannedparenthood.org/health-center/kansas/wichita/67214/centro-de-salud-wichita-2876-90740,"2212 E. Central Ave, KS Wichita, USA"
+Lexington Health Center,Lexington,KY,40503,https://www.plannedparenthood.org/health-center/kentucky/lexington/40503/lexington-health-center-3291-91810,"268 Southland Drive, Lexington, KY 40503, USA"
+Kentucky Virtual Health Center,Louisville,KY,40203,https://www.plannedparenthood.org/health-center/kentucky/louisville/40203/kentucky-virtual-health-center-vc-21951-91810,
+Louisville Health Center,Louisville,KY,40203,https://www.plannedparenthood.org/health-center/kentucky/louisville/40203/louisville-health-center-3290-91810,"842 South 7th Street, Louisville, KY 40203, USA"
+PPGP Telehealth,New Orleans,LA,70125,https://www.plannedparenthood.org/health-center/louisiana/new-orleans/70125/ppgp-telehealth-vc-22014-90740,
+Biddeford Health Center,Biddeford,ME,04005,https://www.plannedparenthood.org/health-center/maine/biddeford/04005/biddeford-health-center-2943-91770,"275 Main St, Biddeford, ME 04005, USA"
+Virtual Health Center of Maine,Portland,ME,04101,https://www.plannedparenthood.org/health-center/maine/portland/04101/virtual-health-center-of-maine-vc-10045-91770,
+Portland Health Center,Portland,ME,04101,https://www.plannedparenthood.org/health-center/maine/portland/04101/portland-health-center-2940-91770,"443 Congress Street, Portland, ME 04101, USA"
+Sanford Health Center,Sanford,ME,04073,https://www.plannedparenthood.org/health-center/maine/sanford/04073/sanford-health-center-2942-91770,"886 Main Street, Sanford, ME 04073, USA"
+Topsham Health Center,Topsham,ME,04086,https://www.plannedparenthood.org/health-center/maine/topsham/04086/topsham-health-center-2941-91770,"4 Bowdoin Mill Island, Topsham, ME 04086, USA"
+Annapolis Health Center,Annapolis,MD,21401,https://www.plannedparenthood.org/health-center/maryland/annapolis/21401/annapolis-health-center-2834-90620,"929 West Street, Annapolis, MD 21401, USA"
+Maryland Virtual Health Center of PPM,Baltimore,MD,21201,https://www.plannedparenthood.org/health-center/maryland/baltimore/21201/maryland-virtual-health-center-of-ppm-vc-3891-90620,
+Baltimore City Health Center,Baltimore,MD,21201,https://www.plannedparenthood.org/health-center/maryland/baltimore/21201/baltimore-city-health-center-3292-90620,"330 North Howard Street, Baltimore, MD 21201, USA"
+"Easton Health Center, MD",Easton,MD,21601,https://www.plannedparenthood.org/health-center/maryland/easton/21601/easton-health-center-md-2830-90620,
+Frederick Health Center,Frederick,MD,21702,https://www.plannedparenthood.org/health-center/maryland/frederick/21702/frederick-health-center-2899-90620,"170 Thomas Johnson Drive, Frederick, MD 21702, USA"
+Gaithersburg Center,Gaithersburg,MD,20886,https://www.plannedparenthood.org/health-center/maryland/gaithersburg/20886/gaithersburg-center-2493-90230,
+Owings Mills Health Center,Pikesville,MD,21208,https://www.plannedparenthood.org/health-center/maryland/pikesville/21208/owings-mills-health-center-2833-90620,
+Prince George’s County Health Center,Suitland,MD,20746,https://www.plannedparenthood.org/health-center/maryland/suitland/20746/prince-georges-county-health-center-4198-90230,"5001 Silver Hill Road, Suitland, MD 20746, USA"
+Towson Health Center,Towson,MD,21286,https://www.plannedparenthood.org/health-center/maryland/towson/21286/towson-health-center-2831-90620,
+Waldorf Health Center,Waldorf,MD,20602,https://www.plannedparenthood.org/health-center/maryland/waldorf/20602/waldorf-health-center-2900-90620,"3975 St. Charles Parkway, Waldorf, MD 20602, USA"
+Greater Boston Health Center,Boston,MA,02215,https://www.plannedparenthood.org/health-center/massachusetts/boston/02215/greater-boston-health-center-3293-90610,"1055 Commonwealth Avenue, Boston, MA 02215, USA"
+Metro West Health Center,Marlborough,MA,01752,https://www.plannedparenthood.org/health-center/massachusetts/marlborough/01752/metro-west-health-center-3951-90610,"91 Main Street, Marlborough, MA 01752, USA"
+Western Massachusetts Health Center,Springfield,MA,01107,https://www.plannedparenthood.org/health-center/massachusetts/springfield/01107/western-massachusetts-health-center-2662-90610,"3550 Main Street, Springfield, MA 01107, USA"
+Central Massachusetts Health Center,Worcester,MA,01609,https://www.plannedparenthood.org/health-center/massachusetts/worcester/01609/central-massachusetts-health-center-2660-90610,"470 Pleasant Street, Worcester, MA 01609, USA"
+Power Family Health Center,Ann Arbor,MI,48104,https://www.plannedparenthood.org/health-center/michigan/ann-arbor/48104/power-family-health-center-3296-90630,"3100 Professional Drive, Ann Arbor, MI 48104, USA"
+Michigan Virtual Health Center,Ann Arbor,MI,48108,https://www.plannedparenthood.org/health-center/michigan/ann-arbor/48108/michigan-virtual-health-center-vc-3929-90630,
+Detroit Health Center,Detroit,MI,48201,https://www.plannedparenthood.org/health-center/michigan/detroit/48201/detroit-health-center-2890-90630,"4229 Cass Ave., Detroit, MI 48201, USA"
+Ferndale Health Center,Ferndale,MI,48220,https://www.plannedparenthood.org/health-center/michigan/ferndale/48220/ferndale-health-center-4053-90630,"23338 Woodward Ave., Ferndale, MI 48220, USA"
+Flint Health Center,Flint,MI,48532,https://www.plannedparenthood.org/health-center/michigan/flint/48532/flint-health-center-3298-90630,"G-3371 Beecher Road, Flint, MI 48532, USA"
+Irwin/Martin Health Center,Grand Rapids,MI,49503,https://www.plannedparenthood.org/health-center/michigan/grand-rapids/49503/irwinmartin-health-center-3295-90630,"425 Cherry St. SE, Grand Rapids, MI 49503, USA"
+Kalamazoo Health Center,Kalamazoo,MI,49006,https://www.plannedparenthood.org/health-center/michigan/kalamazoo/49006/kalamazoo-health-center-3299-90630,"4201 W Michigan Ave, Kalamazoo, MI 49006, USA"
+Walker Health Center,Traverse City,MI,49686,https://www.plannedparenthood.org/health-center/michigan/traverse-city/49686/walker-health-center-3297-90630,"1135 E. Eighth St., Traverse City, MI 49686, USA"
+Brooklyn Park Health Center,Brooklyn Park,MN,55443,https://www.plannedparenthood.org/health-center/minnesota/brooklyn-park/55443/brooklyn-park-health-center-2671-90720,"7532 Brooklyn Blvd., Brooklyn Park, MN 55443, USA"
+Duluth Health Center,Duluth,MN,55811,https://www.plannedparenthood.org/health-center/minnesota/duluth/55811/duluth-health-center-2929-90720,"1001 East Central Entrance, Duluth, MN 55811, USA"
+Eden Prairie Health Center,Eden Prairie,MN,55344,https://www.plannedparenthood.org/health-center/minnesota/eden-prairie/55344/eden-prairie-health-center-3376-90720,"582 Prairie Center Dr., Eden Prairie, MN 55344, USA"
+Little Canada Health Center,Little Canada,MN,55117,https://www.plannedparenthood.org/health-center/minnesota/little-canada/55117/little-canada-health-center-2706-90720,"91 WestViking Drive St. Paul, MN 55117, USA"
+Mankato Health Center,Mankato,MN,56001,https://www.plannedparenthood.org/health-center/minnesota/mankato/56001/mankato-health-center-2797-90720,340 Stadium Road Suite 400 Mankato MN 56001
+Minneapolis Health Center,Minneapolis,MN,55408,https://www.plannedparenthood.org/health-center/minnesota/minneapolis/55408/minneapolis-health-center-2719-90720,"1200 Lagoon Avenue, Minneapolis, MN 55408, USA"
+Moorhead Health Center,Moorhead,MN,56560,https://www.plannedparenthood.org/health-center/minnesota/moorhead/56560/moorhead-health-center-2932-90720,"803 Belsly Boulevard, Moorhead, MN 56560, USA"
+Rochester Health Center,Rochester,MN,55901,https://www.plannedparenthood.org/health-center/minnesota/rochester/55901/rochester-health-center-2799-90720,"1212 7th St. NW, Rochester, MN 55901, USA"
+St. Cloud Health Center,Saint Cloud,MN,56304,https://www.plannedparenthood.org/health-center/minnesota/saint-cloud/56304/centro-de-salud-st-cloud-2609-90720,"451 E. St. Germain St, St. Cloud, MN 56304, USA"
+Minnesota Telehealth,Saint Paul,MN,55114,https://www.plannedparenthood.org/health-center/minnesota/saint-paul/55114/minnesota-telehealth-vc-10017-90720,
+St. Paul Health Center,Saint Paul,MN,55114,https://www.plannedparenthood.org/health-center/minnesota/saint-paul/55114/st-paul-health-center-4055-90720,"671 Vandalia St., St. Paul, MN 55114, USA"
+Columbia Health Center,Columbia,MO,65203,https://www.plannedparenthood.org/health-center/missouri/columbia/65203/centro-de-salud-columbia-2760-90740,
+Northland Center,Gladstone,MO,64119,https://www.plannedparenthood.org/health-center/missouri/gladstone/64119/northland-center-2629-90740,"2900 NE 60th Street, Gladstone, MO 64119, USA"
+Independence Health Center,Independence,MO,64050,https://www.plannedparenthood.org/health-center/missouri/independence/64050/independence-health-center-2630-90740,"815 N Noland Road, Independence, MO 64050, USA"
+Patty Brous Health Center,Kansas City,MO,64110,https://www.plannedparenthood.org/health-center/missouri/kansas-city/64110/patty-brous-health-center-2628-90740,"1001 Emanuel Cleaver II Blvd., Kansas City, MO 64110, USA"
+West County Health Center,Manchester,MO,63088,https://www.plannedparenthood.org/health-center/missouri/manchester/63088/west-county-health-center-2708-90770,"1 Stonegate Center, Manchester, MO 63088, USA"
+PPGR Virtual Health Center for Missouri,Rolla,MO,65401,https://www.plannedparenthood.org/health-center/missouri/rolla/65401/ppgr-virtual-health-center-for-missouri-3876-90770,1032 Kingshighway B Rolla MO 65401
+Central West End Health Center,Saint Louis,MO,63108,https://www.plannedparenthood.org/health-center/missouri/saint-louis/63108/central-west-end-health-center-3301-90770,"4251 Forest Park Avenue, St. Louis, MO 63108, USA"
+St. Peters Health Center,Saint Peters,MO,63376,https://www.plannedparenthood.org/health-center/missouri/saint-peters/63376/st-peters-health-center-2709-90770,"208 Mid Rivers Center St. Peters, MO 63376, USA"
+Springfield Health Center,Springfield,MO,65807,https://www.plannedparenthood.org/health-center/missouri/springfield/65807/springfield-health-center-2428-90770,"626 E Battlefield Road., Springfield, MO 65807, USA"
+PPGR's Virtual Health Center for Missouri,St Louis,MO,63108,https://www.plannedparenthood.org/health-center/missouri/st-louis/63108/centro-de-salud-virtual-de-ppgr-para-missouri-vc-22007-90770,
+Lincoln Health Center,Lincoln,NE,68516,https://www.plannedparenthood.org/health-center/nebraska/lincoln/68516/lincoln-health-center-4062-90720,"5631 S. 48th Street, Lincoln, NE 68516, USA"
+Omaha Health Center,Omaha,NE,68134,https://www.plannedparenthood.org/health-center/nebraska/omaha/68134/omaha-health-center-2447-90720,"3105 N. 93rd St, Omaha, NE 68134, USA"
+Nebraska Telehealth,Omaha,NE,68134,https://www.plannedparenthood.org/health-center/nebraska/omaha/68134/nebraska-telehealth-vc-10023-90720,
+North Las Vegas Health Center,North Las Vegas,NV,89030,https://www.plannedparenthood.org/health-center/nevada/north-las-vegas/89030/north-las-vegas-health-center-21949-90130,
+Reno Health Center,Reno,NV,89511,https://www.plannedparenthood.org/health-center/nevada/reno/89511/centro-de-salud-reno-2262-90130,"8025 S Virginia Street, Reno, NV 89511, USA"
+Virtual Health Center of New Hampshire,Concord,NH,03301,https://www.plannedparenthood.org/health-center/new-hampshire/concord/03301/virtual-health-center-of-new-hampshire-vc-10044-91770,
+Derry Health Center,Derry,NH,03038,https://www.plannedparenthood.org/health-center/new-hampshire/derry/03038/derry-health-center-2742-91770,"4 Birch Street, Derry, NH 03038, USA"
+Exeter Health Center,Exeter,NH,03833,https://www.plannedparenthood.org/health-center/new-hampshire/exeter/03833/exeter-health-center-2739-91770,
+Keene Health Center,Keene,NH,03431,https://www.plannedparenthood.org/health-center/new-hampshire/keene/03431/keene-health-center-2744-91770,"8 Middle Street, Keene, NH 03431, USA"
+Manchester Health Center,Manchester,NH,03104,https://www.plannedparenthood.org/health-center/new-hampshire/manchester/03104/centro-de-salud-manchester-2740-91770,
+Absecon Health Center,Absecon,NJ,08201,https://www.plannedparenthood.org/health-center/new-jersey/absecon/08201/absecon-health-center-21895-90900,"320 Ohio Ave, NJ Absecon, USA"
+Camden Center,Camden,NJ,08103,https://www.plannedparenthood.org/health-center/new-jersey/camden/08103/camden-center-3312-90900,"317 Broadway, Camden, NJ 08103, USA"
+Delran Health Center,Delran,NJ,08075,https://www.plannedparenthood.org/health-center/new-jersey/delran/08075/delran-health-center-4147-90900,"8008 Route 130N, Delran, NJ 08075, USA"
+East Orange  Health Center,East Orange,NJ,07018,https://www.plannedparenthood.org/health-center/new-jersey/east-orange/07018/east-orange-health-center-2551-90920,
+Elizabeth Health Center,Elizabeth,NJ,07201,https://www.plannedparenthood.org/health-center/new-jersey/elizabeth/07201/elizabeth-health-center-2599-90900,"1171 Elizabeth Avenue, Elizabeth, NJ, 07201, USA"
+Flemington Health Center,Flemington,NJ,08822,https://www.plannedparenthood.org/health-center/new-jersey/flemington/08822/flemington-health-center-2596-90900,"349 Rt 31 South, Flemington, NJ 08822, USA"
+Hackensack Health Center,Hackensack,NJ,07601,https://www.plannedparenthood.org/health-center/new-jersey/hackensack/07601/hackensack-health-center-2947-90900,"575 Main Street, Hackensack, NJ 07601, USA"
+Hamilton Health Center,Hamilton Square,NJ,08690,https://www.plannedparenthood.org/health-center/new-jersey/hamilton-square/08690/hamilton-health-center-2343-90900,"2279 State Highway 33, Hamilton Square, NJ 08690, USA"
+Montclair Center,Montclair,NJ,07042,https://www.plannedparenthood.org/health-center/new-jersey/montclair/07042/montclair-center-2550-90920,"29 N Fullerton Ave, Montclair, NJ 07042, USA"
+Morristown Health Center,Morristown,NJ,07960,https://www.plannedparenthood.org/health-center/new-jersey/morristown/07960/morristown-health-center-3307-90900,"196 Speedwell Ave, Morristown, NJ 07960, USA"
+Ironbound Health Center,Newark,NJ,07105,https://www.plannedparenthood.org/health-center/new-jersey/newark/07105/ironbound-health-center-2554-90920,"70 Adams St, Newark, NJ 07105, USA"
+PPMNJ Virtual Health Center,Newark,NJ,07102,https://www.plannedparenthood.org/health-center/new-jersey/newark/07102/ppmnj-virtual-health-center-vc-3893-90920,
+Mulberry Health Center,Newark,NJ,07102,https://www.plannedparenthood.org/health-center/new-jersey/newark/07102/mulberry-health-center-4225-90920,
+Newton Health Center,Newton,NJ,07860,https://www.plannedparenthood.org/health-center/new-jersey/newton/07860/newton-health-center-2555-90900,"8 Moran Street, Newton, NJ 07860, USA"
+Paterson Center,Paterson,NJ,07514,https://www.plannedparenthood.org/health-center/new-jersey/paterson/07514/paterson-center-2557-90920,
+Perth Amboy Center,Perth Amboy,NJ,08861,https://www.plannedparenthood.org/health-center/new-jersey/perth-amboy/08861/perth-amboy-center-3053-90900,"450 Market Street, Perth Amboy, NJ 08861, USA"
+Shrewsbury Center,Shrewsbury,NJ,07702,https://www.plannedparenthood.org/health-center/new-jersey/shrewsbury/07702/shrewsbury-center-3510-90900,"69 East Newman Springs Road, Shrewsbury, NJ 07702, USA"
+Franklin Township Center,Somerset,NJ,08873,https://www.plannedparenthood.org/health-center/new-jersey/somerset/08873/franklin-township-center-3887-90900,
+Trenton Health Center,Trenton,NJ,08608,https://www.plannedparenthood.org/health-center/new-jersey/trenton/08608/trenton-health-center-3304-90900,"437 East State Street, Trenton, NJ 08608, USA"
+Washington Health Center,Washington,NJ,07882,https://www.plannedparenthood.org/health-center/new-jersey/washington/07882/washington-health-center-2598-90900,"66 East Washington Avenue, Washington, NJ 07882, USA"
+New Mexico Telehealth,Albuquerque,NM,87111,https://www.plannedparenthood.org/health-center/new-mexico/albuquerque/87111/new-mexico-telehealth-vc-3895-90210,
+Eubank Health Center,Albuquerque,NM,87111,https://www.plannedparenthood.org/health-center/new-mexico/albuquerque/87111/eubank-health-center-10036-90210,
+Farmington Health Center,Farmington,NM,87401,https://www.plannedparenthood.org/health-center/new-mexico/farmington/87401/farmington-health-center-2407-90210,"1308 E 20th Street, Farmington, NM 87401, USA"
+Las Cruces Health Center,Las Cruces,NM,88011,https://www.plannedparenthood.org/health-center/new-mexico/las-cruces/88011/las-cruces-health-center-3816-90210,2525 S. Telshor Las Cruces NM 88011
+Santa Fe Health Center,Santa Fe,NM,87505,https://www.plannedparenthood.org/health-center/new-mexico/santa-fe/87505/santa-fe-health-center-2801-90210,"730 St. Michaels Drive, Santa Fe, NM 87505, USA"
+Albany Health Center,Albany,NY,12206,https://www.plannedparenthood.org/health-center/new-york/albany/12206/albany-health-center-3336-91020,
+Batavia Health Center,Batavia,NY,14020,https://www.plannedparenthood.org/health-center/new-york/batavia/14020/batavia-health-center-2353-91040,"222 W Main Street, Batavia, NY 14020, USA"
+Brighton Health Center,Brighton,NY,14618,https://www.plannedparenthood.org/health-center/new-york/brighton/14618/brighton-health-center-3787-91040,2235 S Clinton Brighton New York 14618
+The Bronx Center,Bronx,NY,10451,https://www.plannedparenthood.org/health-center/new-york/bronx/10451/the-bronx-center-2524-91110,"349 E 149th Street, Bronx, NY 10451, USA"
+Joan Malin Brooklyn Health Center,Brooklyn,NY,11201,https://www.plannedparenthood.org/health-center/new-york/brooklyn/11201/joan-malin-brooklyn-health-center-2522-91110,"44 Court Street, Brooklyn, NY 11201, USA"
+Buffalo Health Center,Buffalo,NY,14214,https://www.plannedparenthood.org/health-center/new-york/buffalo/14214/buffalo-health-center-3334-91040,60 East Amherst Street Buffalo NY 14214.
+Canandaigua Health Center,Canandaigua,NY,14424,https://www.plannedparenthood.org/health-center/new-york/canandaigua/14424/canandaigua-health-center-2352-91040,"15 LaFayette Avenue, Canandaigua, NY 14424, USA"
+Canton Center,Canton,NY,13617,https://www.plannedparenthood.org/health-center/new-york/canton/13617/canton-center-2881-91210,"9 Miner Street, Canton, NY 13617, USA"
+Corning Health Center,Corning,NY,14830,https://www.plannedparenthood.org/health-center/new-york/corning/14830/corning-health-center-2345-91110,
+Elmira Health Center,Elmira,NY,14901,https://www.plannedparenthood.org/health-center/new-york/elmira/14901/elmira-health-center-2349-91110,"755 E. Church Street, Elmira, NY 14901, USA"
+Hempstead Center,Hempstead,NY,11550,https://www.plannedparenthood.org/health-center/new-york/hempstead/11550/hempstead-center-3321-91110,"540 Fulton Ave, Hempstead, NY 11550, USA"
+Hudson Health Center,Hudson,NY,12534,https://www.plannedparenthood.org/health-center/new-york/hudson/12534/centro-de-salud-hudson-2380-91020,"804 Columbia St, Hudson, NY 12534, USA"
+Huntington Center,Huntington,NY,11743,https://www.plannedparenthood.org/health-center/new-york/huntington/11743/huntington-center-2318-91220,
+Ithaca Health Center,Ithaca,NY,14850,https://www.plannedparenthood.org/health-center/new-york/ithaca/14850/ithaca-health-center-3333-91110,"620 West Seneca Street, Ithaca, NY 14850, USA"
+Johnstown Center,Johnstown,NY,12095,https://www.plannedparenthood.org/health-center/new-york/johnstown/12095/johnstown-center-3530-91110,"400 North Perry Street, Johnstown, NY 12095, USA"
+Kingston Health Center,Kingston,NY,12401,https://www.plannedparenthood.org/health-center/new-york/kingston/12401/kingston-health-center-2623-91110,"21 Grand Street, Kingston, NY 12401, USA"
+Lowville Center,Lowville,NY,13367,https://www.plannedparenthood.org/health-center/new-york/lowville/13367/lowville-center-2882-91210,"7398 Turin Rd, Lowville, NY 13367, USA"
+Malone Clinic,Malone,NY,12953,https://www.plannedparenthood.org/health-center/new-york/malone/12953/malone-clinic-2778-91210,"246 W. Main Street, Malone, NY 12953, USA"
+Massapequa Center,Massapequa,NY,11758,https://www.plannedparenthood.org/health-center/new-york/massapequa/11758/massapequa-center-2788-91110,"35 Carmans Road, Massapequa, NY 11758, USA"
+Mount Vernon Center,Mount Vernon,NY,10550,https://www.plannedparenthood.org/health-center/new-york/mount-vernon/10550/mount-vernon-center-2204-91220,"6 Gramatan Avenue, Mt. Vernon, NY 10550, USA"
+Newburgh Health Center,Newburgh,NY,12550,https://www.plannedparenthood.org/health-center/new-york/newburgh/12550/newburgh-health-center-3995-91110,"136 Lake Street, Newburgh, NY 12550, USA"
+New Rochelle Center,New Rochelle,NY,10801,https://www.plannedparenthood.org/health-center/new-york/new-rochelle/10801/new-rochelle-center-2206-91220,150 Lockwood Avenue Suite LL-1 New Rochelle NY 10801
+Virtual Health Center of PPGNY,New York,NY,10012,https://www.plannedparenthood.org/health-center/new-york/new-york/10012/virtual-health-center-of-ppgny-vc-3934-91110,
+Niagara Falls Office,Niagara Falls,NY,14301,https://www.plannedparenthood.org/health-center/new-york/niagara-falls/14301/niagara-falls-office-2976-91040,
+North Tonawanda Health Center,North Tonawanda,NY,14120,https://www.plannedparenthood.org/health-center/new-york/north-tonawanda/14120/north-tonawanda-health-center-2977-91040,"15 Webster Street, North Tonawanda, NY 14120, USA"
+Ogdensburg Center,Ogdensburg,NY,13669,https://www.plannedparenthood.org/health-center/new-york/ogdensburg/13669/ogdensburg-center-2880-91210,"419 Ford Street, Ogdensburg, NY 13669, USA"
+Patchogue Center,Patchogue,NY,11772,https://www.plannedparenthood.org/health-center/new-york/patchogue/11772/patchogue-center-2317-91220,"450 Waverly Ave, Patchogue, NY 11772, USA"
+Plattsburgh Clinic,Plattsburgh,NY,12901,https://www.plannedparenthood.org/health-center/new-york/plattsburgh/12901/plattsburgh-clinic-3315-91210,"66 Brinkerhoff Street, Plattsburgh, NY 12901, USA"
+Poughkeepsie Health Center,Poughkeepsie,NY,12601,https://www.plannedparenthood.org/health-center/new-york/poughkeepsie/12601/poughkeepsie-health-center-2621-91110,"17 Noxon Street, Poughkeepsie, NY 12601, USA"
+Diane L. Max Health Center,Queens,NY,11101,https://www.plannedparenthood.org/health-center/new-york/queens/11101/diane-l-max-health-center-4184-91110,"21-41 45th Rd, Queens, NY 11101, USA"
+Queensbury Health Center,Queensbury,NY,12804,https://www.plannedparenthood.org/health-center/new-york/queensbury/12804/queensbury-health-center-4257-91110,"543 Bay Road, Queensbury, NY 12804, USA"
+Riverhead Center,Riverhead,NY,11901,https://www.plannedparenthood.org/health-center/new-york/riverhead/11901/riverhead-center-4264-91220,"877 E Main Street, Riverhead, NY 11901, USA"
+Rochester Health Center,Rochester,NY,14605,https://www.plannedparenthood.org/health-center/new-york/rochester/14605/rochester-health-center-3332-91040,
+Rome Center,Rome,NY,13440,https://www.plannedparenthood.org/health-center/new-york/rome/13440/rome-center-2884-91110,"111 E. Chestnut Street, Rome, NY 13440, USA"
+Saranac Lake Clinic,Saranac Lake,NY,12983,https://www.plannedparenthood.org/health-center/new-york/saranac-lake/12983/saranac-lake-clinic-3428-91210,"41 St. Bernard St., Saranac Lake, NY 12983, USA"
+Saratoga Springs Center,Saratoga Springs,NY,12866,https://www.plannedparenthood.org/health-center/new-york/saratoga-springs/12866/saratoga-springs-center-2776-91110,"236 Washington Street, Saratoga Springs, NY 12866, USA"
+Schenectady Center,Schenectady,NY,12307,https://www.plannedparenthood.org/health-center/new-york/schenectady/12307/schenectady-center-4192-91110,"1040 State Street, Schenectady, NY 12307, USA"
+Smithtown Center,Smithtown,NY,11787,https://www.plannedparenthood.org/health-center/new-york/smithtown/11787/smithtown-center-2320-91220,"70 Maple Ave, Smithtown, NY 11787, USA"
+Spring Valley Center,Spring Valley,NY,10977,https://www.plannedparenthood.org/health-center/new-york/spring-valley/10977/spring-valley-center-2226-91220,"25 Perlman Drive, Spring Valley, NY 10977, USA"
+Syracuse Health Center,Syracuse,NY,13210,https://www.plannedparenthood.org/health-center/new-york/syracuse/13210/syracuse-health-center-2471-91040,"1120 E Genesee Street, Syracuse, NY 13210, USA"
+Troy Health Center,Troy,NY,12180,https://www.plannedparenthood.org/health-center/new-york/troy/12180/troy-health-center-2780-91020,120 Hoosick Street Troy NY 12180
+Utica Center,Utica,NY,13502,https://www.plannedparenthood.org/health-center/new-york/utica/13502/utica-center-3318-91110,
+Watertown Center,Watertown,NY,13601,https://www.plannedparenthood.org/health-center/new-york/watertown/13601/watertown-center-3328-91210,"160 Stone Street, Watertown, NY 13601, USA"
+West Islip Center,West Islip,NY,11795,https://www.plannedparenthood.org/health-center/new-york/west-islip/11795/west-islip-center-2316-91220,"180 Sunrise Highway, West Islip, NY 11795, USA"
+West Seneca Health Center,West Seneca,NY,14224,https://www.plannedparenthood.org/health-center/new-york/west-seneca/14224/west-seneca-health-center-2693-91040,"Wimbledon Plaza 240 Center Road, West Seneca, NY 14224, USA"
+Virtual Health Center of PPHP,White Plains,NY,10607,https://www.plannedparenthood.org/health-center/new-york/white-plains/10607/virtual-health-center-of-pphp-vc-21952-91220,
+White Plains Center,White Plains,NY,10607,https://www.plannedparenthood.org/health-center/new-york/white-plains/10607/white-plains-center-2203-91220,"175 Tarrytown Road, White Plains, NY 10607, USA"
+Yonkers Center,Yonkers,NY,10701,https://www.plannedparenthood.org/health-center/new-york/yonkers/10701/yonkers-center-2202-91220,"20 S Broadway, Yonkers, NY 10701, USA"
+Asheville Health Center,Asheville,NC,28801,https://www.plannedparenthood.org/health-center/north-carolina/asheville/28801/asheville-health-center-4134-90860,
+Chapel Hill Health Center,Chapel Hill,NC,27514,https://www.plannedparenthood.org/health-center/north-carolina/chapel-hill/27514/chapel-hill-health-center-4169-90860,"1765 Dobbins Drive, Chapel Hill, NC 27514, USA"
+Charlotte Health Center,Charlotte,NC,28204,https://www.plannedparenthood.org/health-center/north-carolina/charlotte/28204/charlotte-health-center-2703-90860,"700 South Torrence Street, Charlotte, NC 28204, USA"
+Durham Health Center,Durham,NC,27704,https://www.plannedparenthood.org/health-center/north-carolina/durham/27704/durham-health-center-4171-90860,"105 Newsom Street, Durham, NC 27704, USA"
+Fayetteville Health Center,Fayetteville,NC,28303,https://www.plannedparenthood.org/health-center/north-carolina/fayetteville/28303/fayetteville-health-center-4173-90860,
+Greensboro Health Center,Greensboro,NC,27408,https://www.plannedparenthood.org/health-center/north-carolina/greensboro/27408/greensboro-health-center-2846-90860,"1704 Battleground Ave, Greensboro, NC 27408, USA"
+Raleigh Health Center,Raleigh,NC,27603,https://www.plannedparenthood.org/health-center/north-carolina/raleigh/27603/raleigh-health-center-3338-90860,"100 S Boylan Ave., Raleigh, NC 27603, USA"
+North Carolina Virtual Health Center,Raleigh,NC,27603,https://www.plannedparenthood.org/health-center/north-carolina/raleigh/27603/north-carolina-virtual-health-center-vc-21954-90860,
+Wilmington Health Center,Wilmington,NC,28401,https://www.plannedparenthood.org/health-center/north-carolina/wilmington/28401/wilmington-health-center-2595-90860,"1925 Tradd Court, Wilmington, NC 28401, USA"
+Winston-Salem Health Center,Winston Salem,NC,27103,https://www.plannedparenthood.org/health-center/north-carolina/winston-salem/27103/winston-salem-health-center-2845-90860,"3010 Maplewood Ave, Winston-Salem, NC 27103, USA"
+Akron Health Center,Akron,OH,44302,https://www.plannedparenthood.org/health-center/ohio/akron/44302/akron-health-center-3344-91230,"444 West Exchange Street, Akron, OH 44302, USA"
+Greater Ohio Virtual Health Center,Akron,OH,44302,https://www.plannedparenthood.org/health-center/ohio/akron/44302/greater-ohio-virtual-health-center-vc-3931-91230,
+Athens Health Center,Athens,OH,45700,https://www.plannedparenthood.org/health-center/ohio/athens/45700/athens-health-center-2974-91230,416 W Union St Athens OH 45701
+Bedford Heights Health Center,Bedford Heights,OH,44146,https://www.plannedparenthood.org/health-center/ohio/bedford-heights/44146/bedford-heights-health-center-4041-91230,"25350 Rockside Rd, Bedford Heights, OH 44146, USA"
+Bedford Heights Surgery Center,Bedford Heights,OH,44146,https://www.plannedparenthood.org/health-center/ohio/bedford-heights/44146/bedford-heights-surgery-center-4061-91230,"25350 Rockside Rd, Bedford Heights, OH 44146, USA"
+Canton Health Center,Canton,OH,44709,https://www.plannedparenthood.org/health-center/ohio/canton/44709/canton-health-center-2464-91230,
+Cincinnati Surgical Center,Cincinnati,OH,45219,https://www.plannedparenthood.org/health-center/ohio/cincinnati/45219/cincinnati-surgical-center-3347-91260,"2314 Auburn Avenue, Cincinnati, OH 45219, USA"
+Southwest Ohio Virtual Health Center,Cincinnati,OH,45219,https://www.plannedparenthood.org/health-center/ohio/cincinnati/45219/southwest-ohio-virtual-health-center-vc-10038-91260,
+Mt. Auburn Health Center,Cincinnati,OH,45219,https://www.plannedparenthood.org/health-center/ohio/cincinnati/45219/mt-auburn-health-center-3346-91260,
+Student Resource Center,Cleveland,OH,44115,https://www.plannedparenthood.org/health-center/ohio/cleveland/44115/student-resource-center-21938-91230,"2121 Euclid Ave, OH Cleveland, USA"
+Old Brooklyn Health Center,Cleveland,OH,44134,https://www.plannedparenthood.org/health-center/ohio/cleveland/44134/old-brooklyn-health-center-2508-91230,"2186 Brookpark Road, Cleveland, OH 44134, USA"
+North Columbus Health Center,Columbus,OH,43201,https://www.plannedparenthood.org/health-center/ohio/columbus/43201/north-columbus-health-center-2717-91230,"18 East 17th Avenue, Columbus, OH 43201, USA"
+East Columbus Surgical Center,Columbus,OH,43213,https://www.plannedparenthood.org/health-center/ohio/columbus/43213/east-columbus-surgical-center-2335-91230,
+Dayton Health Center,Dayton,OH,45402,https://www.plannedparenthood.org/health-center/ohio/dayton/45402/dayton-health-center-2192-91260,"224 N Wilkinson Street, Dayton, OH 45402, USA"
+Dayton Surgical Center,Dayton,OH,45429,https://www.plannedparenthood.org/health-center/ohio/dayton/45429/dayton-surgical-center-21935-91260,1401 E Stroop Rd Dayton Oh 45429
+Kent Health Center,Kent,OH,44240,https://www.plannedparenthood.org/health-center/ohio/kent/44240/kent-health-center-2849-91230,"138 E Main Street, Kent, OH 44240, USA"
+Mansfield Health Center,Mansfield,OH,44906,https://www.plannedparenthood.org/health-center/ohio/mansfield/44906/mansfield-health-center-2424-91230,"384 Park Avenue W, Mansfield, OH 44906, USA"
+Rocky River Health Center,Rocky River,OH,44116,https://www.plannedparenthood.org/health-center/ohio/rocky-river/44116/rocky-river-health-center-2418-91230,21016 Center Ridge rd Rocky River OH 44116
+Toledo Health Center,Toledo,OH,43604,https://www.plannedparenthood.org/health-center/ohio/toledo/43604/toledo-health-center-3345-91230,"1301 Jefferson Ave, Toledo, OH 43604, USA"
+Youngstown Health Center,Youngstown,OH,44507,https://www.plannedparenthood.org/health-center/ohio/youngstown/44507/youngstown-health-center-2847-91230,
+South Boulevard Clinic,Edmond,OK,73013,https://www.plannedparenthood.org/health-center/oklahoma/edmond/73013/south-boulevard-clinic-2840-90740,1601 South Boulevard Edmond OK 73013
+Central Oklahoma City Clinic,Oklahoma City,OK,73103,https://www.plannedparenthood.org/health-center/oklahoma/oklahoma-city/73103/central-oklahoma-city-clinic-3351-90740,"619 NW 23rd Street, Oklahoma City, OK 73103, USA"
+Peoria Health Center,Tulsa,OK,74120,https://www.plannedparenthood.org/health-center/oklahoma/tulsa/74120/peoria-health-center-2416-90740,
+Beaverton Health Center,Beaverton,OR,97005,https://www.plannedparenthood.org/health-center/oregon/beaverton/97005/beaverton-health-center-2410-91400,"12220 SW First St., Beaverton, OR 97005, USA"
+Bend Health Center,Bend,OR,97703,https://www.plannedparenthood.org/health-center/oregon/bend/97703/bend-health-center-2373-91400,"2330 NE Division St., Bend, OR 97703, USA"
+PPSO Telehealth Services,Eugene,OR,97403,https://www.plannedparenthood.org/health-center/oregon/eugene/97403/ppso-telehealth-services-3854-91380,"3579 Franklin Blvd, Eugene, OR 97403, USA"
+Eugene-Springfield Health Center,Eugene,OR,97403,https://www.plannedparenthood.org/health-center/oregon/eugene/97403/eugene-springfield-health-center-4075-91380,"3579 Franklin Blvd, Eugene, OR 97403, USA"
+West Eugene Health Center,Eugene,OR,97402,https://www.plannedparenthood.org/health-center/oregon/eugene/97402/centro-de-salud-west-eugene-3069-91380,"793 N. Danebo Avenue, Eugene, OR 97402, USA"
+Grants Pass Health Center,Grants Pass,OR,97526,https://www.plannedparenthood.org/health-center/oregon/grants-pass/97526/grants-pass-health-center-2371-91380,"160 NW Franklin Blvd., Grants Pass, OR 97526, USA"
+Medford Health Center,Medford,OR,97501,https://www.plannedparenthood.org/health-center/oregon/medford/97501/medford-health-center-2367-91380,
+Milwaukie-Oak Grove Health Center,Milwaukie,OR,97267,https://www.plannedparenthood.org/health-center/oregon/milwaukie/97267/milwaukie-oak-grove-health-center-4195-91400,"14411 SE McLoughlin Blvd, Milwaukie, OR 97267, USA"
+Ontario Health Center,Ontario,OR,97914,https://www.plannedparenthood.org/health-center/oregon/ontario/97914/ontario-health-center-3853-91400,640 SW 4th Ave Ontario OR 97914
+Hillman East Portland Center,Portland,OR,97236,https://www.plannedparenthood.org/health-center/oregon/portland/97236/hillman-east-portland-center-2673-91400,14601 SE Division Street Portland OR 97236
+NE Portland Health Center,Portland,OR,97212,https://www.plannedparenthood.org/health-center/oregon/portland/97212/ne-portland-health-center-3943-91400,"3727 NE Martin Luther King Jr. Boulevard, Portland, OR 97212, USA"
+PPCW Oregon Telehealth,Portland,OR,97212,https://www.plannedparenthood.org/health-center/oregon/portland/97212/ppcw-oregon-telehealth-vc-10035-91400,
+Salem Health Center,Salem,OR,97305,https://www.plannedparenthood.org/health-center/oregon/salem/97305/salem-health-center-2412-91400,"3825 Wolverine St., Salem, OR 97305, USA"
+Providence Health Center,Providence,RI,02903,https://www.plannedparenthood.org/health-center/rhode-island/providence/02903/providence-health-center-3362-90220,"175 Broad Street, Providence, RI 02903, USA"
+Rhode Island Virtual Health Center,Providence,RI,02903,https://www.plannedparenthood.org/health-center/rhode-island/providence/02903/rhode-island-virtual-health-center-vc-100700205-90220,
+South Dakota Telehealth,Sioux Falls,SD,57106,https://www.plannedparenthood.org/health-center/south-dakota/sioux-falls/57106/south-dakota-telehealth-vc-10018-90720,
+Sioux Falls Health Center,Sioux Falls,SD,57106,https://www.plannedparenthood.org/health-center/south-dakota/sioux-falls/57106/sioux-falls-health-center-2738-90720,"6511 West 41st Street, Sioux Falls, SD 57106, USA"
+Addison Health Center,Addison,TX,75001,https://www.plannedparenthood.org/health-center/texas/addison/75001/addison-health-center-2157-91620,"4551 Beltway Dr, Addison,  TX 75001"
+Arlington Health Center,Arlington,TX,76015,https://www.plannedparenthood.org/health-center/texas/arlington/76015/arlington-health-center-2244-91620,"3701 South Cooper Street, Arlington, TX 76015, USA"
+Central Austin Health Center,Austin,TX,78705,https://www.plannedparenthood.org/health-center/texas/austin/78705/central-austin-health-center-2395-91620,"2911 Medical Arts, Austin, TX 78705, USA"
+North Austin Health Center,Austin,TX,78758,https://www.plannedparenthood.org/health-center/texas/austin/78758/north-austin-health-center-2398-91620,"9041 Research, Austin, TX 78758, USA"
+South Austin Health Resource Center,Austin,TX,78704,https://www.plannedparenthood.org/health-center/texas/austin/78704/south-austin-health-resource-center-4250-91620,"201 E. Ben White Blvd, Austin, TX 78704, USA"
+South Austin Health Center,Austin,TX,78704,https://www.plannedparenthood.org/health-center/texas/austin/78704/south-austin-health-center-2397-91620,"201 E. Ben White Blvd, Austin, TX 78704, USA"
+Downtown Austin Health Center,Austin,TX,78702,https://www.plannedparenthood.org/health-center/texas/austin/78702/downtown-austin-health-center-2396-91620,"1823 E 7th Street, Austin, TX 78702, USA"
+Bedford Health Center,Bedford,TX,76021,https://www.plannedparenthood.org/health-center/texas/bedford/76021/bedford-health-center-2242-91620,"2824 Central Drive, Bedford, TX 76021, USA"
+Brownsville Health Center,Brownsville,TX,78526,https://www.plannedparenthood.org/health-center/texas/brownsville/78526/brownsville-health-center-3342-91710,"870 E. Alton Gloor Blvd., Brownsville, TX 78526, USA"
+Cedar Hill Health Center,Cedar Hill,TX,75104,https://www.plannedparenthood.org/health-center/texas/cedar-hill/75104/cedar-hill-health-center-2160-91620,"140 W FM 1382, Cedar Hill, TX 75104, USA"
+South Dallas Abortion Services Center,Dallas,TX,75237,https://www.plannedparenthood.org/health-center/texas/dallas/75237/south-dallas-abortion-services-center-4149-91620,"7989 West Virginia Drive, Dallas, TX 75237, USA"
+North Dallas Shelburne Health Center,Dallas,TX,75231,https://www.plannedparenthood.org/health-center/texas/dallas/75231/north-dallas-shelburne-health-center-2521-91620,"7424 Greenville Avenue, Ste 101 Dallas, TX 75231, USA"
+Greater Texas Virtual Health Center,Dallas,TX,75231,https://www.plannedparenthood.org/health-center/texas/dallas/75231/greater-texas-virtual-health-center-vc-3933-91620,
+Denton Health Center,Denton,TX,76205,https://www.plannedparenthood.org/health-center/texas/denton/76205/denton-health-center-2190-91620,"2436 S Interstate-35, Denton, TX 76205, USA"
+El Paso Health Center,El Paso,TX,79903,https://www.plannedparenthood.org/health-center/texas/el-paso/79903/centro-de-salud-el-paso-4524-91620,1061 Chelsea Street El Paso TX 79903
+El Paso Health Resource Center,El Paso,TX,79903,https://www.plannedparenthood.org/health-center/texas/el-paso/79903/el-paso-health-resource-center-4285-91620,1061 Chelsea Street El Paso TX 79903
+Southeast Fort Worth Health Center,Fort Worth,TX,76119,https://www.plannedparenthood.org/health-center/texas/fort-worth/76119/southeast-fort-worth-health-center-2243-91620,"3863 Miller Ave., Fort Worth, TX 76119, USA"
+Southwest Fort Worth Health Resource Center,Fort Worth,TX,76132,https://www.plannedparenthood.org/health-center/texas/fort-worth/76132/southwest-fort-worth-health-resource-center-4251-91620,"6464 John Ryan Drive, Fort Worth, TX 76132, USA"
+Southwest Fort Worth Health Center,Fort Worth,TX,76132,https://www.plannedparenthood.org/health-center/texas/fort-worth/76132/centro-de-salud-southwest-fort-worth-4101-91620,"6464 John Ryan Drive, Fort Worth, TX 76132, USA"
+Harlingen Health Center,Harlingen,TX,78550,https://www.plannedparenthood.org/health-center/texas/harlingen/78550/harlingen-health-center-2561-91710,"712 N 77 Sunshine Strip, Harlingen, TX 78550, USA"
+Northville Health Center,Houston,TX,77037,https://www.plannedparenthood.org/health-center/texas/houston/77037/northville-health-center-2494-91620,"9919 North Freeway, Houston, TX 77037, USA"
+Northwest Health Center,Houston,TX,77040,https://www.plannedparenthood.org/health-center/texas/houston/77040/northwest-health-center-4042-91620,"13169 Northwest Freeway, Houston, TX 77040, USA"
+Lubbock Health Resource Center,Lubbock,TX,79410,https://www.plannedparenthood.org/health-center/texas/lubbock/79410/lubbock-health-resource-center-3776-91620,3716 22nd Place Lubbock TX 79410
+Lubbock Health Center,Lubbock,TX,79410,https://www.plannedparenthood.org/health-center/texas/lubbock/79410/lubbock-health-center-2674-91620,3716 22nd Place Lubbock TX 79410
+Mesquite Health Center,Mesquite,TX,75150,https://www.plannedparenthood.org/health-center/texas/mesquite/75150/mesquite-health-center-2159-91620,"1220 North Town East Blvd., Mesquite, TX 75150, USA"
+Plano Health Center,Plano,TX,75074,https://www.plannedparenthood.org/health-center/texas/plano/75074/plano-health-center-4193-91620,"600 North Central Expressway, Plano, TX 75074, USA"
+South Texas Medical Center,San Antonio,TX,78229,https://www.plannedparenthood.org/health-center/texas/san-antonio/78229/south-texas-medical-center-2967-91710,"2140 Babcock Rd, San Antonio, TX 78229, USA"
+Northeast Health Center,San Antonio,TX,78217,https://www.plannedparenthood.org/health-center/texas/san-antonio/78217/northeast-health-center-2962-91710,"11514 Perrin Beitel Rd, San Antonio, TX 78217, USA"
+San Pedro Health Center,San Antonio,TX,78212,https://www.plannedparenthood.org/health-center/texas/san-antonio/78212/san-pedro-health-center-4248-91710,"920 San Pedro Ave., San Antonio, TX 78201, USA"
+Southeast Health Center,San Antonio,TX,78223,https://www.plannedparenthood.org/health-center/texas/san-antonio/78223/southeast-health-center-2966-91710,7022 S New Braunfels Ave #103 San Antonio TX 78223
+Richland Hills Drive Health Center,San Antonio,TX,78245,https://www.plannedparenthood.org/health-center/texas/san-antonio/78245/richland-hills-drive-health-center-2965-91710,235 Richland Hills Drive San Antonio TX 78245
+Spring Health Center,Spring,TX,77388,https://www.plannedparenthood.org/health-center/texas/spring/77388/spring-health-center-4097-91620,"4747 Louetta Road, Spring, TX 77388, USA"
+Stafford Health Center,Stafford,TX,77477,https://www.plannedparenthood.org/health-center/texas/stafford/77477/stafford-health-center-4095-91620,"12614 Southwest Freeway, Stafford, TX 77477, USA"
+Waco Health Resource Center,Waco,TX,76712,https://www.plannedparenthood.org/health-center/texas/waco/76712/waco-health-resource-center-4283-91620,"700 West Highway 6, Waco, TX 76712, USA"
+Waco Health Center,Waco,TX,76712,https://www.plannedparenthood.org/health-center/texas/waco/76712/waco-health-center-4284-91620,"700 West Highway 6, Waco, TX 76712, USA"
+Utah Valley Health Center,Orem,UT,84057,https://www.plannedparenthood.org/health-center/utah/orem/84057/centro-de-salud-utah-valley-2257-91730,"1086 North 1200 West, Orem, UT 84057, USA"
+Utah Virtual Health Center,Salt Lake City,UT,84102,https://www.plannedparenthood.org/health-center/utah/salt-lake-city/84102/utah-virtual-health-center-vc-21961-91730,
+Salt Lake Health Center,Salt Lake City,UT,84102,https://www.plannedparenthood.org/health-center/utah/salt-lake-city/84102/salt-lake-health-center-3567-91730,"654 South 900 East, Salt Lake City, UT 84102, USA"
+Metro Health Center,Salt Lake City,UT,84102,https://www.plannedparenthood.org/health-center/utah/salt-lake-city/84102/metro-health-center-3958-91730,"160 South 1000 East, Salt Lake City, UT 84102, USA"
+South Jordan Health Center,South Jordan,UT,84095,https://www.plannedparenthood.org/health-center/utah/south-jordan/84095/south-jordan-health-center-3442-91730,"1091 West South Jordan Parkway, South Jordan, UT 84095, USA"
+Ogden Health Center,Washington Terrace,UT,84405,https://www.plannedparenthood.org/health-center/utah/washington-terrace/84405/ogden-health-center-2256-91730,"434 E 5350 S Washington Terrace UT 84405, USA"
+West Valley Health Center,West Valley City,UT,84119,https://www.plannedparenthood.org/health-center/utah/west-valley-city/84119/west-valley-health-center-3568-91730,"1906 West 3600 South, West Valley City, UT 84119, USA"
+Barre Health Center,Barre,VT,05641,https://www.plannedparenthood.org/health-center/vermont/barre/05641/barre-health-center-2654-91770,"90 Washington Street, Barre, VT 05641, USA"
+Brattleboro Health Center,Brattleboro,VT,05301,https://www.plannedparenthood.org/health-center/vermont/brattleboro/05301/brattleboro-health-center-2658-91770,"6 High Street, Brattleboro, VT 05301, USA"
+Burlington Health Center,Burlington,VT,05401,https://www.plannedparenthood.org/health-center/vermont/burlington/05401/burlington-health-center-2650-91770,
+Virtual Health Center of Vermont,Colchester,VT,05446,https://www.plannedparenthood.org/health-center/vermont/colchester/05446/virtual-health-center-of-vermont-vc-10043-91770,
+Rutland Health Center,Rutland,VT,05701,https://www.plannedparenthood.org/health-center/vermont/rutland/05701/rutland-health-center-4229-91770,
+White River Junction Health Center,White River Junction,VT,05001,https://www.plannedparenthood.org/health-center/vermont/white-river-junction/05001/white-river-junction-health-center-2745-91770,"79 South Main St, White River Junction, VT 05001, USA"
+Williston Health Center,Williston,VT,05495,https://www.plannedparenthood.org/health-center/vermont/williston/05495/williston-health-center-3317-91770,"75 Talcott Road, Williston, VT 05495, USA"
+Charlottesville Health Center,Charlottesville,VA,22901,https://www.plannedparenthood.org/health-center/virginia/charlottesville/22901/charlottesville-health-center-2815-90860,"2964 Hydraulic Road, Charlottesville, VA 22901, USA"
+Chesapeake Health Center,Chesapeake,VA,23321,https://www.plannedparenthood.org/health-center/virginia/chesapeake/23321/chesapeake-health-center-91750-91750,3802 Poplar Hill Rd Chesapeake VA 23321
+Hampton Health Center,Hampton,VA,23666,https://www.plannedparenthood.org/health-center/virginia/hampton/23666/hampton-health-center-4164-91750,"403 Yale Drive, Hampton, VA 23666, USA"
+"Richmond, Near West End Health Center",Richmond,VA,23221,https://www.plannedparenthood.org/health-center/virginia/richmond/23221/richmond-near-west-end-health-center-3913-91750,"201 N Hamilton Street, Richmond, VA 23221, USA"
+"Richmond, Church Hill Health Center",Richmond,VA,23223,https://www.plannedparenthood.org/health-center/virginia/richmond/23223/richmond-church-hill-health-center-2680-91750,1122 N 25th Street Richmond VA 23223
+Virginia League Virtual Health Center,Richmond,VA,23221,https://www.plannedparenthood.org/health-center/virginia/richmond/23221/centro-de-salud-virtual-virginia-league-vc-21897-91750,
+Roanoke Health Center,Roanoke,VA,24017,https://www.plannedparenthood.org/health-center/virginia/roanoke/24017/roanoke-health-center-2768-90860,"2207 Peters Creek Road, Roanoke, VA 24017, USA"
+Virginia Virtual Health Center,Roanoke,VA,24017,https://www.plannedparenthood.org/health-center/virginia/roanoke/24017/virginia-virtual-health-center-vc-21922-90860,
+Virginia Beach Health Center,Virginia Beach,VA,23462,https://www.plannedparenthood.org/health-center/virginia/virginia-beach/23462/virginia-beach-health-center-4166-91750,"515 Newtown Road, Virginia Beach, VA 23462, USA"
+Eastside-Bellevue Health Center,Bellevue,WA,98007,https://www.plannedparenthood.org/health-center/washington/bellevue/98007/eastside-bellevue-health-center-4151-91810,
+Bellingham Health Center,Bellingham,WA,98225,https://www.plannedparenthood.org/health-center/washington/bellingham/98225/bellingham-health-center-2454-91850,"1530 Ellis Street, Bellingham, WA 98225, USA"
+Bremerton Health Center,Bremerton,WA,98310,https://www.plannedparenthood.org/health-center/washington/bremerton/98310/bremerton-health-center-2461-91810,"723 NE Riddell Road, Bremerton, WA 98310, USA"
+Centralia Health Center,Centralia,WA,98531,https://www.plannedparenthood.org/health-center/washington/centralia/98531/centralia-health-center-2453-91810,"1020 W Main Street, Centralia, WA 98531, USA"
+Ellensburg Health Center,Ellensburg,WA,98926,https://www.plannedparenthood.org/health-center/washington/ellensburg/98926/ellensburg-health-center-2402-91850,"613 N. Pine St., Ellensburg, WA 98926, USA"
+Everett Health Center,Everett,WA,98201,https://www.plannedparenthood.org/health-center/washington/everett/98201/everett-health-center-2994-91810,"1509 32nd St., Everett, WA 98201, USA"
+Federal Way Health Center,Federal Way,WA,98003,https://www.plannedparenthood.org/health-center/washington/federal-way/98003/federal-way-health-center-2503-91810,"1105 S 348th Street, Federal Way, WA 98003, USA"
+Friday Harbor Health Center (San Juan Island),Friday Harbor,WA,98250,https://www.plannedparenthood.org/health-center/washington/friday-harbor/98250/friday-harbor-health-center-san-juan-island-2844-91850,145 Rhone Street Friday Harbor WA 98250
+Kennewick Health Center,Kennewick,WA,99336,https://www.plannedparenthood.org/health-center/washington/kennewick/99336/kennewick-health-center-2404-91850,"7426 W. Bonnie Pl., Kennewick, WA 99336, USA"
+Lynnwood Health Center,Lynnwood,WA,98036,https://www.plannedparenthood.org/health-center/washington/lynnwood/98036/lynnwood-health-center-2996-91810,"19505 76th Ave W. 200, Lynnwood, WA 98036, USA"
+Marysville Health Center,Marysville,WA,98271,https://www.plannedparenthood.org/health-center/washington/marysville/98271/marysville-health-center-2457-91810,"10210 State Ave., Marysville, WA 98271, USA"
+Moses Lake Health Center,Moses Lake,WA,98837,https://www.plannedparenthood.org/health-center/washington/moses-lake/98837/moses-lake-health-center-4202-91850,"920 W Ivy, Moses Lake, WA 98837, USA"
+Mount Vernon Health Center,Mount Vernon,WA,98274,https://www.plannedparenthood.org/health-center/washington/mount-vernon/98274/mount-vernon-health-center-2843-91850,"1805 E Division Street, Mt. Vernon, WA 98274, USA"
+Olympia Health Center,Olympia,WA,98501,https://www.plannedparenthood.org/health-center/washington/olympia/98501/olympia-health-center-2460-91810,"402 Legion Way, Olympia, WA 98501, USA"
+Pasco Health Center,Pasco,WA,99301,https://www.plannedparenthood.org/health-center/washington/pasco/99301/pasco-health-center-3971-91850,"3901 W. Court St., Pasco, WA 99301, USA"
+Pullman Health Center,Pullman,WA,99163,https://www.plannedparenthood.org/health-center/washington/pullman/99163/pullman-health-center-2793-91850,"1525 SE King Drive, Pullman, WA 99163, USA"
+Puyallup Health Center,Puyallup,WA,98373,https://www.plannedparenthood.org/health-center/washington/puyallup/98373/puyallup-health-center-2504-91810,"702-30th Ave SW, Puyallup, WA 98373, USA"
+Central District Health Center,Seattle,WA,98122,https://www.plannedparenthood.org/health-center/washington/seattle/98122/central-district-health-center-3309-91810,"2001 E Madison, Seattle, WA 98122, USA"
+Washington Virtual Health Center of PPGNHAIK,Seattle,WA,98122,https://www.plannedparenthood.org/health-center/washington/seattle/98122/washington-virtual-health-center-of-ppgnhaik-vc-21943-91810,
+University District Health Center,Seattle,WA,98105,https://www.plannedparenthood.org/health-center/washington/seattle/98105/university-district-health-center-2532-91810,"5020 Roosevelt Way NE, Seattle, WA 98105, USA"
+Northgate Health Center,Seattle,WA,98133,https://www.plannedparenthood.org/health-center/washington/seattle/98133/northgate-health-center-3975-91810,"1200 N. Northgate Way, Seattle, WA 98133, USA"
+White Center Health Center,Seattle,WA,98106,https://www.plannedparenthood.org/health-center/washington/seattle/98106/white-center-health-center-4161-91810,"9942 8th Avenue SW, Seattle, WA 98106, USA"
+Spokane Health Center,Spokane,WA,99207,https://www.plannedparenthood.org/health-center/washington/spokane/99207/spokane-health-center-2794-91850,"123 E. Indiana Ave., Spokane, WA 99207, USA"
+Spokane Valley Health Center,Spokane Valley,WA,99206,https://www.plannedparenthood.org/health-center/washington/spokane-valley/99206/spokane-valley-health-center-2792-91850,"12104 E. Main Ave., Spokane Valley, WA 99206, USA"
+Sunnyside Health Center,Sunnyside,WA,98944,https://www.plannedparenthood.org/health-center/washington/sunnyside/98944/sunnyside-health-center-2403-91850,"2934 Covey Ln, Sunnyside, WA 98944, USA"
+Tacoma Health Center,Tacoma,WA,98405,https://www.plannedparenthood.org/health-center/washington/tacoma/98405/tacoma-health-center-4106-91810,"1515 Martin Luther King Jr. Way, Tacoma, WA 98405, USA"
+PPCW Washington Telehealth,Vancouver,WA,98684,https://www.plannedparenthood.org/health-center/washington/vancouver/98684/ppcw-washington-telehealth-vc-10034-91400,
+Vancouver Health Center,Vancouver,WA,98684,https://www.plannedparenthood.org/health-center/washington/vancouver/98684/vancouver-health-center-2455-91400,"11516 SE Mill Plain Blvd, Vancouver, WA 98684, USA"
+Walla Walla Health Center,Walla Walla,WA,99362,https://www.plannedparenthood.org/health-center/washington/walla-walla/99362/walla-walla-health-center-2405-91850,228 W Birch Street Walla Walla WA 99362
+Wenatchee Health Center,Wenatchee,WA,98801,https://www.plannedparenthood.org/health-center/washington/wenatchee/98801/wenatchee-health-center-4204-91850,609 Okanogan Ave Wenatchee WA 98801
+Yakima Health Center,Yakima,WA,98902,https://www.plannedparenthood.org/health-center/washington/yakima/98902/yakima-health-center-3311-91850,"1117 Tieton Dr., Yakima, WA 98902, USA"
+Vienna Health Center,Vienna,WV,26105,https://www.plannedparenthood.org/health-center/west-virginia/vienna/26105/vienna-health-center-2893-90860,"522 Grand Central Ave., Vienna, WV 26105, USA"
+West Virginia Virtual Health Center,Vienna,WV,26105,https://www.plannedparenthood.org/health-center/west-virginia/vienna/26105/west-virginia-virtual-health-center-vc-21919-90860,
+Appleton Central Health Center,Appleton,WI,54911,https://www.plannedparenthood.org/health-center/wisconsin/appleton/54911/appleton-central-health-center-2578-91860,"508 W Wisconsin Ave, Appleton, WI 54911, USA"
+Eau Claire Health Center,Eau Claire,WI,54701,https://www.plannedparenthood.org/health-center/wisconsin/eau-claire/54701/eau-claire-health-center-2694-91860,"967 W. Clairemont Avenue, Eau Claire, WI 54701, USA"
+Green Bay Health Center,Green Bay,WI,54304,https://www.plannedparenthood.org/health-center/wisconsin/green-bay/54304/centro-de-salud-green-bay-4024-91860,"2605 S. Oneida Street, Green Bay, WI 54304, USA"
+Kenosha Health Center,Kenosha,WI,53142,https://www.plannedparenthood.org/health-center/wisconsin/kenosha/53142/kenosha-health-center-2903-91860,"3601 Roosevelt Road, Kenosha, WI 53142, USA"
+La Crosse Health Center,La Crosse,WI,54603,https://www.plannedparenthood.org/health-center/wisconsin/la-crosse/54603/la-crosse-health-center-9001-91860,1201 Caledonia St. La Crosse WI 54603-2514
+Madison East Health Center,Madison,WI,53704,https://www.plannedparenthood.org/health-center/wisconsin/madison/53704/madison-east-health-center-2733-91860,
+Madison South Health Center,Madison,WI,53713,https://www.plannedparenthood.org/health-center/wisconsin/madison/53713/madison-south-health-center-3937-91860,"2222 S. Park Street, Madison, WI 53713, USA"
+Manitowoc Health Center,Manitowoc,WI,54220,https://www.plannedparenthood.org/health-center/wisconsin/manitowoc/54220/manitowoc-health-center-2580-91860,"1100 South 30th Street, Manitowoc, WI 54220, USA"
+Milwaukee - Capitol Drive Health Center,Milwaukee,WI,53212,https://www.plannedparenthood.org/health-center/wisconsin/milwaukee/53212/milwaukee-capitol-drive-health-center-3488-91860,"801 East Capitol Drive, Milwaukee, WI 53212, USA"
+Milwaukee-Northwest Health Center,Milwaukee,WI,53216,https://www.plannedparenthood.org/health-center/wisconsin/milwaukee/53216/milwaukee-northwest-health-center-2823-91860,"5380 W Fond du Lac Avenue, Milwaukee, WI 53216, USA"
+Milwaukee- Water Street Health Center,Milwaukee,WI,53204,https://www.plannedparenthood.org/health-center/wisconsin/milwaukee/53204/milwaukee-water-street-health-center-4270-91860,"435 S Water Street, Milwaukee, WI 53204, USA"
+Wisconsin Virtual Health Center,Milwaukee,WI,53202,https://www.plannedparenthood.org/health-center/wisconsin/milwaukee/53202/wisconsin-virtual-health-center-vc-10040-91860,
+Milwaukee - Mitchell Street Health Center,Milwaukee,WI,53204,https://www.plannedparenthood.org/health-center/wisconsin/milwaukee/53204/centro-de-salud-milwaukee-mitchell-street-3490-91860,"1710 South 7th Street, Milwaukee, WI 53204, USA"
+Milwaukee-Wisconsin Avenue Health Center,Milwaukee,WI,53233,https://www.plannedparenthood.org/health-center/wisconsin/milwaukee/53233/milwaukee-wisconsin-avenue-health-center-2819-91860,"2207 W. Wisconsin Ave, Milwaukee, WI 53233, USA"
+Oshkosh Health Center,Oshkosh,WI,54902,https://www.plannedparenthood.org/health-center/wisconsin/oshkosh/54902/oshkosh-health-center-2583-91860,"378 S. Koeller St., Oshkosh, WI 54902, USA"
+Racine Health Center,Racine,WI,53403,https://www.plannedparenthood.org/health-center/wisconsin/racine/53403/racine-health-center-2904-91860,"834 S Main Street, Racine, WI 53403, USA"
+Sheboygan Health Center,Sheboygan,WI,53081,https://www.plannedparenthood.org/health-center/wisconsin/sheboygan/53081/sheboygan-health-center-4514-91860,
+Waukesha Health Center,Waukesha,WI,53186,https://www.plannedparenthood.org/health-center/wisconsin/waukesha/53186/waukesha-health-center-2905-91860,"426 W Main Street, Waukesha, WI 53186, USA"
+Milwaukee-Lincoln Plaza Health Center,West Allis,WI,53227,https://www.plannedparenthood.org/health-center/wisconsin/west-allis/53227/milwaukee-lincoln-plaza-health-center-2822-91860,"2239 S 108th Street, West Allis, WI 53227, USA"
