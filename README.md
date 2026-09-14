@@ -11,5 +11,7 @@
 | Crisis Pregnancy Center locations | [Reproaction's Fake Clinic Database](https://reproaction.org/database/) | PDF extraction |
 | Planned Parenthood health center locations | [plannedparenthood.org](https://www.plannedparenthood.org) | Custom web scraper (`scrape_planned_parenthood.py`) |
 | Planned Parenthood street addresses | Individual health center pages | Second-pass scraper (`scrape_pp_addresses.py`) |
+
+Addresses for 412/503 Planned Parenthood locations were obtained. Locations with no address information were discarded. Locations for 2429 Crisis Pregnancy Centers were provided by the Reproaction database. This brings the total to 2841 entries for this analysis. 
  
 ---
