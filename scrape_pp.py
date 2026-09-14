@@ -33,7 +33,7 @@ BASE_URL = "https://www.plannedparenthood.org/health-center/{}"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; portfolio-research-script/1.0; "
-                  "non-commercial data science project; contact: replace-with-your-email)"
+                  "non-commercial data science project; contact: melissagiluso@gmail.com)"
 }
 
 
