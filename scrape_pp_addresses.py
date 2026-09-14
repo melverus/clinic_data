@@ -26,7 +26,7 @@ from pathlib import Path
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; portfolio-research-script/1.0; "
-                  "non-commercial data science project; contact: replace-with-your-email)"
+                  "non-commercial data science project; contact: melissagiluso@gmail.com)"
 }
 
 # Matches: https://maps.google.com/?daddr=855+Central+Ave.,+Albany,+NY+12206,+USA+(Albany+Health+Center)
