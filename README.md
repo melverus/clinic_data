@@ -4,7 +4,7 @@
 
 ---
 
-<img width="1890" height="871" alt="County classification map preview" src="https://github.com/user-attachments/assets/21fa300d-c951-4966-9b62-a3e451486430" />
+<img width="900" alt="County classification map preview" src="https://github.com/user-attachments/assets/21fa300d-c951-4966-9b62-a3e451486430" />
 
 **[→ Open the full interactive county map](https://melverus.github.io/clinic_data/charts/county_map.html)** &nbsp;|&nbsp; **[→ Open the interactive facility map](https://melverus.github.io/clinic_data/charts/clinic_map.html)**
 
