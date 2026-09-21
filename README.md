@@ -6,7 +6,7 @@
 
 <img width="1890" height="871" alt="County classification map preview" src="https://github.com/user-attachments/assets/21fa300d-c951-4966-9b62-a3e451486430" />
 
-**[→ Open the full interactive county map](https://github.com/melverus/clinic_data/blob/main/charts/county_map.html)** &nbsp;|&nbsp; **[→ Open the interactive facility map](https://github.com/melverus/clinic_data/blob/main/charts/clinic_map.html)**
+**[→ Open the full interactive county map](https://melverus.github.io/clinic_data/charts/county_map.html)** &nbsp;|&nbsp; **[→ Open the interactive facility map](https://melverus.github.io/clinic_data/charts/clinic_map.html)**
 
 *(GitHub strips scripts from README files, so the map above is a static preview — click through for the live, clickable version.)*
 
