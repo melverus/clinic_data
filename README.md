@@ -1,7 +1,11 @@
 # Reproductive Healthcare Access: CPC vs Clinic Location Analysis
 
 **A data pipeline and analysis examining the geographic distribution of Crisis Pregnancy Centers (CPCs) and Planned Parenthood health centers across the United States — built to surface where deceptive-marketing reproductive health facilities may outnumber verified medical providers.**
- 
+
+---
+
+<img width="1890" height="871" alt="image" src="https://github.com/user-attachments/assets/21fa300d-c951-4966-9b62-a3e451486430" />
+
 ---
 
 ## Data Sources
